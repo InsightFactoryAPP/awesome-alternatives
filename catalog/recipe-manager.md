@@ -6,10 +6,10 @@ Keep recipes, plan meals and build shopping lists from them.
 |---|---|---|---|---:|---|
 | [Mealie](https://github.com/mealie-recipes/mealie) | Python | AGPL-3.0 | [v3.28.0](https://github.com/mealie-recipes/mealie/releases/tag/v3.28.0) | 13506 | Paprika Recipe Manager (full), Plan to Eat (full), AnyList (partial) |
 | [Grocy](https://github.com/grocy/grocy) | Blade | MIT | [v4.7.1](https://github.com/grocy/grocy/releases/tag/v4.7.1) signed | 9576 | AnyList (partial) |
-| [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) | HTML | Other | [2.6.15](https://github.com/TandoorRecipes/recipes/releases/tag/2.6.15) signed | 8661 | Paprika Recipe Manager (full), Plan to Eat (full) |
+| [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) | HTML | Other | [2.6.15](https://github.com/TandoorRecipes/recipes/releases/tag/2.6.15) signed | 8662 | Paprika Recipe Manager (full), Plan to Eat (full) |
 | [KitchenOwl](https://github.com/TomBursch/kitchenowl) | Dart | AGPL-3.0 | [v0.7.10](https://github.com/TomBursch/kitchenowl/releases/tag/v0.7.10) signed | 3735 | AnyList (full) |
 | [CookCLI](https://github.com/cooklang/cookcli) | Rust | MIT | [v0.38.1](https://github.com/cooklang/cookcli/releases/tag/v0.38.1) signed | 1404 | Paprika Recipe Manager (partial) |
-| [Norish](https://github.com/norish-recipes/norish) | TypeScript | AGPL-3.0 | [v0.24.0-beta](https://github.com/norish-recipes/norish/releases/tag/v0.24.0-beta) signed | 1270 | Paprika Recipe Manager (full) |
+| [Norish](https://github.com/norish-recipes/norish) | TypeScript | AGPL-3.0 | [v0.24.0-beta](https://github.com/norish-recipes/norish/releases/tag/v0.24.0-beta) signed | 1271 | Paprika Recipe Manager (full) |
 | [Bar Assistant](https://github.com/karlomikus/bar-assistant) | PHP | MIT | [v6.8.1](https://github.com/karlomikus/bar-assistant/releases/tag/v6.8.1) signed | 1104 | none |
 | [RecipeSage](https://github.com/julianpoy/RecipeSage) | TypeScript | none | [v4.0.17](https://github.com/julianpoy/RecipeSage/releases/tag/v4.0.17) signed | 973 | Plan to Eat (full), AnyList (partial) |
 

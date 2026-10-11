@@ -5,7 +5,7 @@ Desktop, mobile and web apps for Matrix, XMPP and IRC.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [Element Web](https://github.com/element-hq/element-web) | TypeScript | AGPL-3.0 | [v1.12.30](https://github.com/element-hq/element-web/releases/tag/v1.12.30) signed | 13556 | Slack (partial), Discord (partial) |
-| [The Lounge](https://github.com/thelounge/thelounge) | TypeScript | MIT | [v4.5.2](https://github.com/thelounge/thelounge/releases/tag/v4.5.2) | 6349 | IRCCloud (full) |
+| [The Lounge](https://github.com/thelounge/thelounge) | TypeScript | MIT | [v4.5.2](https://github.com/thelounge/thelounge/releases/tag/v4.5.2) | 6350 | IRCCloud (full) |
 | [Ferdium](https://github.com/ferdium/ferdium-app) | TypeScript | Apache-2.0 | [v7.2.3](https://github.com/ferdium/ferdium-app/releases/tag/v7.2.3) | 4675 | Rambox (full) |
 | [Halloy](https://github.com/squidowl/halloy) | Rust | GPL-3.0 | [2026.9](https://github.com/squidowl/halloy/releases/tag/2026.9) signed | 4536 | none |
 | [Cinny](https://github.com/cinnyapp/cinny) | TypeScript | AGPL-3.0 | [v4.12.7](https://github.com/cinnyapp/cinny/releases/tag/v4.12.7) signed | 3932 | Slack (partial), Discord (partial) |
@@ -21,7 +21,7 @@ Desktop, mobile and web apps for Matrix, XMPP and IRC.
 | [Commet](https://github.com/commetchat/commet) | Dart | AGPL-3.0 | [v0.5.0](https://github.com/commetchat/commet/releases/tag/v0.5.0) | 1121 | Discord (partial) |
 | [Tangram](https://github.com/sonnyp/Tangram) | JavaScript | GPL-3.0 | [v1.4.2](https://github.com/sonnyp/Tangram/releases/tag/v1.4.2) | 1005 | Rambox (partial) |
 | [Kiwi IRC](https://github.com/kiwiirc/kiwiirc) | Vue | Apache-2.0 | [v1.7.1](https://github.com/kiwiirc/kiwiirc/releases/tag/v1.7.1) signed | 989 | IRCCloud (partial) |
-| [Element X iOS](https://github.com/element-hq/element-x-ios) | Swift | AGPL-3.0 | [release/26.09.2](https://github.com/element-hq/element-x-ios/releases/tag/release/26.09.2) signed | 950 | WhatsApp (partial), Slack (partial) |
+| [Element X iOS](https://github.com/element-hq/element-x-ios) | Swift | AGPL-3.0 | [release/26.09.2](https://github.com/element-hq/element-x-ios/releases/tag/release/26.09.2) signed | 951 | WhatsApp (partial), Slack (partial) |
 | [Quassel IRC](https://github.com/quassel/quassel) | C++ | Other | [0.14.0](https://github.com/quassel/quassel/releases/tag/0.14.0) signed | 796 | IRCCloud (full) |
 | [Monal](https://github.com/monal-im/Monal) | Objective-C | Other | [Build_iOS_1098](https://github.com/monal-im/Monal/releases/tag/Build_iOS_1098) signed | 679 | WhatsApp (partial) |
 

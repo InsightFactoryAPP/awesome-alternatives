@@ -4,7 +4,7 @@ Handle customer requests from email, chat and other channels as tickets.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | Other | [v4.18.0](https://github.com/chatwoot/chatwoot/releases/tag/v4.18.0) | 37694 | Intercom (full), Zendesk (partial) |
+| [Chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | Other | [v4.18.0](https://github.com/chatwoot/chatwoot/releases/tag/v4.18.0) | 37695 | Intercom (full), Zendesk (partial) |
 | [UVdesk](https://github.com/uvdesk/community-skeleton) | CSS | OSL-3.0 | [v1.1.8](https://github.com/uvdesk/community-skeleton/releases/tag/v1.1.8) signed | 19630 | Zendesk (partial), Freshdesk (partial) |
 | [GLPI](https://github.com/glpi-project/glpi) | PHP | GPL-3.0 | [12.0.0](https://github.com/glpi-project/glpi/releases/tag/12.0.0) | 6447 | ServiceNow (partial) |
 | [Zammad](https://github.com/zammad/zammad) | Ruby | AGPL-3.0 | [7.2.2](https://github.com/zammad/zammad/releases/tag/7.2.2) signed | 5995 | Zendesk (full), Freshdesk (full) |

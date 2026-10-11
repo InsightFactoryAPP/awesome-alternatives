@@ -6,7 +6,7 @@ Record, edit and mix audio, and compose with DAWs, trackers, sequencers and soft
 |---|---|---|---|---:|---|
 | [Audacity](https://github.com/audacity/audacity) | C++ | Other | [Audacity-4.0.1](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.1) | 18699 | Adobe Audition (partial) |
 | [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) | C++ | Other | [v5.0.0](https://github.com/sonic-pi-net/sonic-pi/releases/tag/v5.0.0) | 12196 | none |
-| [LMMS](https://github.com/LMMS/lmms) | C++ | GPL-2.0 | [v1.2.2](https://github.com/LMMS/lmms/releases/tag/v1.2.2) signed | 10462 | FL Studio (partial), Ableton Live (partial) |
+| [LMMS](https://github.com/LMMS/lmms) | C++ | GPL-2.0 | [v1.2.2](https://github.com/LMMS/lmms/releases/tag/v1.2.2) signed | 10463 | FL Studio (partial), Ableton Live (partial) |
 | [Mixxx](https://github.com/mixxxdj/mixxx) | C++ | Other | [2.5.6](https://github.com/mixxxdj/mixxx/releases/tag/2.5.6) signed | 7247 | Traktor Pro (full), Serato DJ (full) |
 | [Ardour](https://github.com/Ardour/ardour) | C++ | Other | [9.8](https://github.com/Ardour/ardour/releases/tag/9.8) | 5339 | none |
 | [Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth) | C++ | GPL-3.0 | [v1.3.0](https://github.com/BespokeSynth/BespokeSynth/releases/tag/v1.3.0) signed | 4736 | Max/MSP (partial) |

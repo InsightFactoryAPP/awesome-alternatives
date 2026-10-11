@@ -5,8 +5,8 @@ Extract data from applications and databases and load it into a warehouse.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [Canal](https://github.com/alibaba/canal) | Java | Apache-2.0 | [canal-1.1.8](https://github.com/alibaba/canal/releases/tag/canal-1.1.8) | 29740 | Debezium (partial) |
-| [Airbyte](https://github.com/airbytehq/airbyte) | Python | Other | [v2.0.0](https://github.com/airbytehq/airbyte/releases/tag/v2.0.0) signed | 22203 | Fivetran (full), Informatica (partial) |
-| [DataX](https://github.com/alibaba/DataX) | Java | Other | [datax_v202309](https://github.com/alibaba/DataX/releases/tag/datax_v202309) signed | 17360 | Fivetran (partial) |
+| [Airbyte](https://github.com/airbytehq/airbyte) | Python | Other | [v2.0.0](https://github.com/airbytehq/airbyte/releases/tag/v2.0.0) signed | 22204 | Fivetran (full), Informatica (partial) |
+| [DataX](https://github.com/alibaba/DataX) | Java | Other | [datax_v202309](https://github.com/alibaba/DataX/releases/tag/datax_v202309) signed | 17361 | Fivetran (partial) |
 | [Debezium](https://github.com/debezium/debezium) | Java | Apache-2.0 | [v3.7.0.Final](https://github.com/debezium/debezium/releases/tag/v3.7.0.Final) | 13210 | Fivetran (partial) |
 | [Apache SeaTunnel](https://github.com/apache/seatunnel) | Java | Apache-2.0 | [v3.0.0](https://github.com/apache/seatunnel/releases/tag/v3.0.0) | 9707 | Fivetran (partial) |
 | [Redpanda Connect](https://github.com/redpanda-data/connect) | Go | none | [v4.113.0](https://github.com/redpanda-data/connect/releases/tag/v4.113.0) signed | 8780 | Logstash (partial), Apache NiFi (partial) |

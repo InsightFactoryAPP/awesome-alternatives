@@ -4,7 +4,7 @@ Self-hosted servers that run build and deployment pipelines.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [act](https://github.com/nektos/act) | Go | MIT | [v0.2.89](https://github.com/nektos/act/releases/tag/v0.2.89) | 72282 | none |
+| [act](https://github.com/nektos/act) | Go | MIT | [v0.2.89](https://github.com/nektos/act/releases/tag/v0.2.89) | 72285 | none |
 | [Jenkins](https://github.com/jenkinsci/jenkins) | Java | MIT | [jenkins-2.585](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.585) | 26640 | CircleCI (full) |
 | [Dagger](https://github.com/dagger/dagger) | Go | Apache-2.0 | [v0.21.10](https://github.com/dagger/dagger/releases/tag/v0.21.10) signed | 16335 | none |
 | [Tekton](https://github.com/tektoncd/pipeline) | Go | Apache-2.0 | [v1.17.0](https://github.com/tektoncd/pipeline/releases/tag/v1.17.0) | 9077 | Jenkins (partial) |

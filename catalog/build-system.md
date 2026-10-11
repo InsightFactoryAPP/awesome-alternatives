@@ -10,7 +10,7 @@ Compile, test and package projects from a declared build, for C, C++, the JVM an
 | [CMake](https://github.com/Kitware/CMake) | C | BSD-3-Clause | [v4.4.4](https://github.com/Kitware/CMake/releases/tag/v4.4.4) signed | 8120 | none |
 | [sccache](https://github.com/mozilla/sccache) | Rust | Apache-2.0 | [v0.18.0](https://github.com/mozilla/sccache/releases/tag/v0.18.0) | 7774 | ccache (full) |
 | [Meson](https://github.com/mesonbuild/meson) | Python | Apache-2.0 | [1.12.1](https://github.com/mesonbuild/meson/releases/tag/1.12.1) | 6645 | CMake (full) |
-| [Apache Maven](https://github.com/apache/maven) | Java | Apache-2.0 | [maven-3.10.0](https://github.com/apache/maven/releases/tag/maven-3.10.0) | 5374 | Gradle (full) |
+| [Apache Maven](https://github.com/apache/maven) | Java | Apache-2.0 | [maven-3.10.0](https://github.com/apache/maven/releases/tag/maven-3.10.0) | 5373 | Gradle (full) |
 | [sbt](https://github.com/sbt/sbt) | Scala | Apache-2.0 | [v2.0.10](https://github.com/sbt/sbt/releases/tag/v2.0.10) signed | 4954 | Apache Maven (partial) |
 | [Premake](https://github.com/premake/premake-core) | C | BSD-3-Clause | [v5.0.0](https://github.com/premake/premake-core/releases/tag/v5.0.0) signed | 3649 | Meson (partial) |
 | [ccache](https://github.com/ccache/ccache) | C++ | Other | [v4.14.1](https://github.com/ccache/ccache/releases/tag/v4.14.1) signed | 2974 | none |

@@ -7,7 +7,7 @@ Play local video files and streams, or the library of your own media server.
 | [IINA](https://github.com/iina/iina) | Swift | GPL-3.0 | [v1.5.0](https://github.com/iina/iina/releases/tag/v1.5.0) | 46735 | QuickTime Player (full) |
 | [mpv](https://github.com/mpv-player/mpv) | C | Other | [v0.41.0](https://github.com/mpv-player/mpv/releases/tag/v0.41.0) signed | 37332 | PotPlayer (partial) |
 | [Kodi](https://github.com/xbmc/xbmc) | C++ | Other | [21.3-Omega](https://github.com/xbmc/xbmc/releases/tag/21.3-Omega) signed | 21303 | Infuse (partial) |
-| [VLC](https://github.com/videolan/vlc) | C | GPL-2.0 | [3.0.24](https://github.com/videolan/vlc/releases/tag/3.0.24) | 19943 | QuickTime Player (partial) |
+| [VLC](https://github.com/videolan/vlc) | C | GPL-2.0 | [3.0.24](https://github.com/videolan/vlc/releases/tag/3.0.24) | 19942 | QuickTime Player (partial) |
 | [Jellyfin Desktop](https://github.com/jellyfin/jellyfin-desktop) | C++ | GPL-2.0 | [v1.12.0](https://github.com/jellyfin/jellyfin-desktop/releases/tag/v1.12.0) | 5854 | Plex (partial) |
 | [Streamyfin](https://github.com/streamyfin/streamyfin) | TypeScript | MPL-2.0 | [v0.55.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.1) signed | 5259 | Plex (partial), Infuse (partial) |
 | [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) | C | GPL-3.0 | [1.9.1](https://github.com/Aleksoid1978/MPC-BE/releases/tag/1.9.1) | 4565 | PotPlayer (full) |

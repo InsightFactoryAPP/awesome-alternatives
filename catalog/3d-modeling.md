@@ -4,7 +4,7 @@ Model, process, texture and view 3D meshes and assets.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Blender](https://github.com/blender/blender) | C++ | Other | [v5.2.2](https://github.com/blender/blender/releases/tag/v5.2.2) | 20817 | Maya (full) |
+| [Blender](https://github.com/blender/blender) | C++ | Other | [v5.2.2](https://github.com/blender/blender/releases/tag/v5.2.2) | 20819 | Maya (full) |
 | [Blockbench](https://github.com/JannisX11/blockbench) | JavaScript | GPL-3.0 | [v5.2.2](https://github.com/JannisX11/blockbench/releases/tag/v5.2.2) | 6045 | Blender (partial) |
 | [Material Maker](https://github.com/RodZill4/material-maker) | GDScript | MIT | [1.7](https://github.com/RodZill4/material-maker/releases/tag/1.7) | 5979 | Substance 3D Designer (partial) |
 | [MeshLab](https://github.com/cnr-isti-vclab/meshlab) | C++ | GPL-3.0 | [MeshLab-2025.07](https://github.com/cnr-isti-vclab/meshlab/releases/tag/MeshLab-2025.07) | 5860 | Blender (partial) |

@@ -4,8 +4,8 @@ Run transport networks, cities, parks and hospitals, or fly and drive vehicle si
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | C++ | GPL-3.0 | [v0.5.6](https://github.com/OpenRCT2/OpenRCT2/releases/tag/v0.5.6) | 16412 | RollerCoaster Tycoon 2 (drop-in), RollerCoaster Tycoon (partial) |
-| [OpenTTD](https://github.com/OpenTTD/OpenTTD) | C++ | Other | [15.3](https://github.com/OpenTTD/OpenTTD/releases/tag/15.3) | 8356 | Transport Tycoon Deluxe (drop-in) |
+| [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | C++ | GPL-3.0 | [v0.5.6](https://github.com/OpenRCT2/OpenRCT2/releases/tag/v0.5.6) | 16413 | RollerCoaster Tycoon 2 (drop-in), RollerCoaster Tycoon (partial) |
+| [OpenTTD](https://github.com/OpenTTD/OpenTTD) | C++ | Other | [15.3](https://github.com/OpenTTD/OpenTTD/releases/tag/15.3) | 8357 | Transport Tycoon Deluxe (drop-in) |
 | [CorsixTH](https://github.com/CorsixTH/CorsixTH) | Lua | Other | [v0.70.1](https://github.com/CorsixTH/CorsixTH/releases/tag/v0.70.1) signed | 4587 | Theme Hospital (full) |
 | [Julius](https://github.com/bvschaik/julius) | C | AGPL-3.0 | [v1.8.0](https://github.com/bvschaik/julius/releases/tag/v1.8.0) | 3396 | Caesar III (drop-in) |
 | [OpenLoco](https://github.com/OpenLoco/OpenLoco) | C++ | MIT | [v26.09](https://github.com/OpenLoco/OpenLoco/releases/tag/v26.09) | 1936 | Locomotion (drop-in) |

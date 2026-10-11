@@ -4,8 +4,8 @@ Build chatbots, agents and RAG workflows in a visual editor and serve them behin
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Dify](https://github.com/langgenius/dify) | TypeScript | Other | [1.17.1](https://github.com/langgenius/dify/releases/tag/1.17.1) signed | 158125 | Microsoft Copilot Studio (partial) |
-| [Langflow](https://github.com/langflow-ai/langflow) | Python | MIT | [v1.12.5](https://github.com/langflow-ai/langflow/releases/tag/v1.12.5) signed | 155486 | Microsoft Copilot Studio (partial) |
+| [Dify](https://github.com/langgenius/dify) | TypeScript | Other | [1.17.1](https://github.com/langgenius/dify/releases/tag/1.17.1) signed | 158132 | Microsoft Copilot Studio (partial) |
+| [Langflow](https://github.com/langflow-ai/langflow) | Python | MIT | [v1.12.5](https://github.com/langflow-ai/langflow/releases/tag/v1.12.5) signed | 155490 | Microsoft Copilot Studio (partial) |
 | [Sim](https://github.com/simstudioai/sim) | TypeScript | Apache-2.0 | [v0.9.17](https://github.com/simstudioai/sim/releases/tag/v0.9.17) signed | 29805 | Microsoft Copilot Studio (partial) |
 | [FastGPT](https://github.com/labring/FastGPT) | TypeScript | Other | [v4.17.2](https://github.com/labring/FastGPT/releases/tag/v4.17.2) signed | 29794 | Microsoft Copilot Studio (partial) |
 | [MaxKB](https://github.com/1Panel-dev/MaxKB) | Python | GPL-3.0 | [v2.10.6-lts](https://github.com/1Panel-dev/MaxKB/releases/tag/v2.10.6-lts) signed | 22941 | Microsoft Copilot Studio (partial) |

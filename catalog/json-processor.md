@@ -4,8 +4,8 @@ Query and transform JSON from the command line.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [jq](https://github.com/jqlang/jq) | C | Other | [jq-1.8.2](https://github.com/jqlang/jq/releases/tag/jq-1.8.2) signed | 35780 | none |
-| [fx](https://github.com/antonmedv/fx) | Go | MIT | [40.0.0](https://github.com/antonmedv/fx/releases/tag/40.0.0) signed | 20662 | jq (partial) |
+| [jq](https://github.com/jqlang/jq) | C | Other | [jq-1.8.2](https://github.com/jqlang/jq/releases/tag/jq-1.8.2) signed | 35781 | none |
+| [fx](https://github.com/antonmedv/fx) | Go | MIT | [40.0.0](https://github.com/antonmedv/fx/releases/tag/40.0.0) signed | 20661 | jq (partial) |
 | [yq](https://github.com/mikefarah/yq) | Go | MIT | [v4.54.1](https://github.com/mikefarah/yq/releases/tag/v4.54.1) | 16070 | jq (partial) |
 | [jc](https://github.com/kellyjonbrazil/jc) | Python | MIT | [v1.26.0](https://github.com/kellyjonbrazil/jc/releases/tag/v1.26.0) signed | 8691 | none |
 | [dasel](https://github.com/TomWright/dasel) | Go | MIT | [v3.11.2](https://github.com/TomWright/dasel/releases/tag/v3.11.2) | 8045 | jq (partial), yq (partial) |

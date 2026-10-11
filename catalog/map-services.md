@@ -6,7 +6,7 @@ Serve map tiles, routing and geocoding from OpenStreetMap data behind your own A
 |---|---|---|---|---:|---|
 | [OSRM](https://github.com/Project-OSRM/osrm-backend) | C++ | BSD-2-Clause | [v26.10.0](https://github.com/Project-OSRM/osrm-backend/releases/tag/v26.10.0) | 8130 | Google Maps Platform (partial) |
 | [GraphHopper](https://github.com/graphhopper/graphhopper) | Java | Apache-2.0 | [11.1](https://github.com/graphhopper/graphhopper/releases/tag/11.1) signed | 6726 | Google Maps Platform (partial) |
-| [Valhalla](https://github.com/valhalla/valhalla) | C++ | Other | [3.9.1](https://github.com/valhalla/valhalla/releases/tag/3.9.1) signed | 6305 | Google Maps Platform (partial), Mapbox (partial) |
+| [Valhalla](https://github.com/valhalla/valhalla) | C++ | Other | [3.9.1](https://github.com/valhalla/valhalla/releases/tag/3.9.1) signed | 6307 | Google Maps Platform (partial), Mapbox (partial) |
 | [Nominatim](https://github.com/osm-search/Nominatim) | Python | GPL-3.0 | [v5.3.2](https://github.com/osm-search/Nominatim/releases/tag/v5.3.2) | 4513 | Google Maps Platform (partial) |
 | [Martin](https://github.com/maplibre/martin) | Rust | Apache-2.0 | [martin-v1.16.1](https://github.com/maplibre/martin/releases/tag/martin-v1.16.1) | 3988 | Mapbox (partial) |
 | [Pelias](https://github.com/pelias/pelias) | Twig | MIT | none | 3595 | Google Maps Platform (partial), Mapbox (partial) |

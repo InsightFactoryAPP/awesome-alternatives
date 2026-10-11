@@ -4,7 +4,7 @@ Apps to read and post on Mastodon, Lemmy, Bluesky and Nostr.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Bluesky](https://github.com/bluesky-social/social-app) | TypeScript | MIT | [1.134.0](https://github.com/bluesky-social/social-app/releases/tag/1.134.0) | 18334 | X (Twitter) (partial) |
+| [Bluesky](https://github.com/bluesky-social/social-app) | TypeScript | MIT | [1.134.0](https://github.com/bluesky-social/social-app/releases/tag/1.134.0) | 18335 | X (Twitter) (partial) |
 | [Ice Cubes](https://github.com/Dimillian/IceCubesApp) | Swift | AGPL-3.0 | [2.1.4](https://github.com/Dimillian/IceCubesApp/releases/tag/2.1.4) | 7081 | X (Twitter) (partial) |
 | [Elk](https://github.com/elk-zone/elk) | Vue | MIT | [v1.0.1](https://github.com/elk-zone/elk/releases/tag/v1.0.1) | 6034 | X (Twitter) (partial) |
 | [Mastodon for iOS](https://github.com/mastodon/mastodon-ios) | Swift | GPL-3.0 | [2026.07](https://github.com/mastodon/mastodon-ios/releases/tag/2026.07) | 2278 | X (Twitter) (partial) |

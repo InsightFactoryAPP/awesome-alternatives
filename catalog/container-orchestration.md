@@ -4,11 +4,11 @@ Schedule and run containers across a cluster of machines, from full Kubernetes d
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Kubernetes](https://github.com/kubernetes/kubernetes) | Go | Apache-2.0 | [v1.37.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.1) | 128265 | Amazon EKS (full) |
-| [Docker Compose](https://github.com/docker/compose) | Go | Apache-2.0 | [v5.6.0](https://github.com/docker/compose/releases/tag/v5.6.0) signed | 38360 | none |
+| [Kubernetes](https://github.com/kubernetes/kubernetes) | Go | Apache-2.0 | [v1.37.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.37.1) | 128266 | Amazon EKS (full) |
+| [Docker Compose](https://github.com/docker/compose) | Go | Apache-2.0 | [v5.6.0](https://github.com/docker/compose/releases/tag/v5.6.0) signed | 38362 | none |
 | [Kubespray](https://github.com/kubernetes-sigs/kubespray) | Jinja | Apache-2.0 | [v2.32.0](https://github.com/kubernetes-sigs/kubespray/releases/tag/v2.32.0) signed | 18788 | Amazon EKS (full) |
 | [Nomad](https://github.com/hashicorp/nomad) | Go | Other | [v2.0.7](https://github.com/hashicorp/nomad/releases/tag/v2.0.7) | 16998 | Kubernetes (partial) |
-| [vcluster](https://github.com/loft-sh/vcluster) | Go | Apache-2.0 | [v0.37.2](https://github.com/loft-sh/vcluster/releases/tag/v0.37.2) | 11340 | none |
+| [vcluster](https://github.com/loft-sh/vcluster) | Go | Apache-2.0 | [v0.37.2](https://github.com/loft-sh/vcluster/releases/tag/v0.37.2) | 11341 | none |
 | [Talos Linux](https://github.com/siderolabs/talos) | Go | MPL-2.0 | [v1.14.2](https://github.com/siderolabs/talos/releases/tag/v1.14.2) signed | 11336 | Amazon EKS (full) |
 | [k0s](https://github.com/k0sproject/k0s) | Go | Other | [v1.36.4+k0s.1](https://github.com/k0sproject/k0s/releases/tag/v1.36.4%2Bk0s.1) signed | 6523 | Amazon EKS (full) |
 | [Cluster API](https://github.com/kubernetes-sigs/cluster-api) | Go | Apache-2.0 | [v1.14.3](https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.14.3) | 4331 | Rancher (partial) |

@@ -5,8 +5,8 @@ Start pages that link to self-hosted services and show their status and widgets.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [Glance](https://github.com/glanceapp/glance) | Go | AGPL-3.0 | [v0.8.6](https://github.com/glanceapp/glance/releases/tag/v0.8.6) | 37435 | Heimdall (partial) |
-| [Homepage](https://github.com/gethomepage/homepage) | JavaScript | GPL-3.0 | [v2.5.0](https://github.com/gethomepage/homepage/releases/tag/v2.5.0) signed | 33054 | Heimdall (full) |
-| [Dashy](https://github.com/lissy93/dashy) | Vue | MIT | [4.8.0](https://github.com/lissy93/dashy/releases/tag/4.8.0) | 26675 | Heimdall (full) |
+| [Homepage](https://github.com/gethomepage/homepage) | JavaScript | GPL-3.0 | [v2.5.0](https://github.com/gethomepage/homepage/releases/tag/v2.5.0) signed | 33056 | Heimdall (full) |
+| [Dashy](https://github.com/lissy93/dashy) | Vue | MIT | [4.8.0](https://github.com/lissy93/dashy/releases/tag/4.8.0) | 26674 | Heimdall (full) |
 | [Homer](https://github.com/bastienwirtz/homer) | Vue | Apache-2.0 | [v26.08.3](https://github.com/bastienwirtz/homer/releases/tag/v26.08.3) | 11652 | Heimdall (partial) |
 | [Heimdall](https://github.com/linuxserver/Heimdall) | PHP | MIT | [v2.8.3](https://github.com/linuxserver/Heimdall/releases/tag/v2.8.3) signed | 9351 | Dashy (partial) |
 | [Flame](https://github.com/pawelmalak/flame) | TypeScript | MIT | [v2.4.0](https://github.com/pawelmalak/flame/releases/tag/v2.4.0) signed | 6566 | Heimdall (partial) |

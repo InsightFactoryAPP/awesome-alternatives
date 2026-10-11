@@ -4,14 +4,14 @@ Self-hosted messaging for teams.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | TypeScript | Other | [8.9.0](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.9.0) | 46246 | Mattermost (full), Slack (full), Microsoft Teams (partial) |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | TypeScript | Other | [8.9.0](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.9.0) | 46248 | Mattermost (full), Slack (full), Microsoft Teams (partial) |
 | [Mattermost](https://github.com/mattermost/mattermost) | TypeScript | Other | [v11.11.1](https://github.com/mattermost/mattermost/releases/tag/v11.11.1) signed | 39306 | Slack (full), Microsoft Teams (partial) |
 | [Zulip](https://github.com/zulip/zulip) | Python | Apache-2.0 | [12.3](https://github.com/zulip/zulip/releases/tag/12.3) | 26026 | Mattermost (full), Slack (full) |
 | [Tinode](https://github.com/tinode/chat) | Go | GPL-3.0 | [v0.25.3](https://github.com/tinode/chat/releases/tag/v0.25.3) | 13526 | WhatsApp (partial) |
-| [Fluxer](https://github.com/fluxerapp/fluxer) | TypeScript | AGPL-3.0 | [fluxer-media-proxy@2026.1011.938](https://github.com/fluxerapp/fluxer/releases/tag/fluxer-media-proxy%402026.1011.938) signed | 10544 | Discord (full) |
-| [Mumble](https://github.com/mumble-voip/mumble) | C++ | Other | [v1.5.915](https://github.com/mumble-voip/mumble/releases/tag/v1.5.915) | 8333 | Discord (partial) |
+| [Fluxer](https://github.com/fluxerapp/fluxer) | TypeScript | AGPL-3.0 | [fluxer-messages@2026.1011.113418](https://github.com/fluxerapp/fluxer/releases/tag/fluxer-messages%402026.1011.113418) signed | 10544 | Discord (full) |
+| [Mumble](https://github.com/mumble-voip/mumble) | C++ | Other | [v1.5.939](https://github.com/mumble-voip/mumble/releases/tag/v1.5.939) | 8332 | Discord (partial) |
 | [ejabberd](https://github.com/processone/ejabberd) | Erlang | Other | [26.09](https://github.com/processone/ejabberd/releases/tag/26.09) | 6740 | Slack (partial) |
-| [Campfire](https://github.com/basecamp/once-campfire) | Ruby | MIT | [v1.5.2](https://github.com/basecamp/once-campfire/releases/tag/v1.5.2) signed | 4758 | Slack (partial) |
+| [Campfire](https://github.com/basecamp/once-campfire) | Ruby | MIT | [v1.5.2](https://github.com/basecamp/once-campfire/releases/tag/v1.5.2) signed | 4759 | Slack (partial) |
 | [Synapse](https://github.com/element-hq/synapse) | Python | AGPL-3.0 | [v1.162.0](https://github.com/element-hq/synapse/releases/tag/v1.162.0) signed | 4689 | Slack (partial), Microsoft Teams (partial), Discord (partial) |
 | [Stoat](https://github.com/stoatchat/stoatchat) | Rust | Other | [v0.15.7](https://github.com/stoatchat/stoatchat/releases/tag/v0.15.7) | 3387 | Discord (full) |
 | [Openfire](https://github.com/igniterealtime/Openfire) | Java | Apache-2.0 | [v5.1.2](https://github.com/igniterealtime/Openfire/releases/tag/v5.1.2) signed | 3071 | Slack (partial) |

@@ -4,16 +4,16 @@ Linters, static checkers and formatters for Go, the JVM, PHP, Ruby, Swift, Lua, 
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [ShellCheck](https://github.com/koalaman/shellcheck) | Haskell | GPL-3.0 | [v0.11.0](https://github.com/koalaman/shellcheck/releases/tag/v0.11.0) | 40159 | none |
+| [ShellCheck](https://github.com/koalaman/shellcheck) | Haskell | GPL-3.0 | [v0.11.0](https://github.com/koalaman/shellcheck/releases/tag/v0.11.0) | 40160 | none |
 | [SwiftLint](https://github.com/realm/SwiftLint) | Swift | MIT | [0.65.1](https://github.com/realm/SwiftLint/releases/tag/0.65.1) | 19755 | none |
-| [golangci-lint](https://github.com/golangci/golangci-lint) | Go | GPL-3.0 | [v2.14.0](https://github.com/golangci/golangci-lint/releases/tag/v2.14.0) signed | 19428 | Staticcheck (full), revive (full) |
-| [PHPStan](https://github.com/phpstan/phpstan) | PHP | MIT | [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) | 14125 | Psalm (full) |
+| [golangci-lint](https://github.com/golangci/golangci-lint) | Go | GPL-3.0 | [v2.14.0](https://github.com/golangci/golangci-lint/releases/tag/v2.14.0) signed | 19429 | Staticcheck (full), revive (full) |
+| [PHPStan](https://github.com/phpstan/phpstan) | PHP | MIT | [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) | 14126 | Psalm (full) |
 | [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) | PHP | MIT | [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) signed | 13562 | PHP_CodeSniffer (partial) |
 | [RuboCop](https://github.com/rubocop/rubocop) | Ruby | MIT | [v1.92.0](https://github.com/rubocop/rubocop/releases/tag/v1.92.0) | 12912 | none |
 | [Hadolint](https://github.com/hadolint/hadolint) | Haskell | GPL-3.0 | [v2.15.1](https://github.com/hadolint/hadolint/releases/tag/v2.15.1) signed | 12467 | none |
 | [SQLFluff](https://github.com/sqlfluff/sqlfluff) | Python | MIT | [4.4.0](https://github.com/sqlfluff/sqlfluff/releases/tag/4.4.0) signed | 9942 | SQL Formatter (partial), sqlfmt (partial) |
 | [Checkstyle](https://github.com/checkstyle/checkstyle) | Java | LGPL-2.1 | [checkstyle-14.3.0](https://github.com/checkstyle/checkstyle/releases/tag/checkstyle-14.3.0) | 9594 | SonarQube Community Build (partial) |
-| [shfmt](https://github.com/mvdan/sh) | Go | BSD-3-Clause | [v3.14.1](https://github.com/mvdan/sh/releases/tag/v3.14.1) signed | 9120 | none |
+| [shfmt](https://github.com/mvdan/sh) | Go | BSD-3-Clause | [v3.14.1](https://github.com/mvdan/sh/releases/tag/v3.14.1) signed | 9121 | none |
 | [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) | Swift | MIT | [0.63.1](https://github.com/nicklockwood/SwiftFormat/releases/tag/0.63.1) | 8928 | none |
 | [detekt](https://github.com/detekt/detekt) | Kotlin | Apache-2.0 | [v1.23.8](https://github.com/detekt/detekt/releases/tag/v1.23.8) signed | 7087 | SonarQube Community Build (partial) |
 | [Staticcheck](https://github.com/dominikh/go-tools) | Go | MIT | [2026.2.1](https://github.com/dominikh/go-tools/releases/tag/2026.2.1) signed | 6906 | golangci-lint (partial) |

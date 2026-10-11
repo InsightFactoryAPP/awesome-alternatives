@@ -4,7 +4,7 @@ Generate one-time codes for two-factor authentication.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Ente Auth](https://github.com/ente/ente) | Dart | AGPL-3.0 | [photos-v1.3.65](https://github.com/ente/ente/releases/tag/photos-v1.3.65) | 29350 | Twilio Authy (full), Google Authenticator (full) |
+| [Ente Auth](https://github.com/ente/ente) | Dart | AGPL-3.0 | [photos-v1.3.65](https://github.com/ente/ente/releases/tag/photos-v1.3.65) | 29351 | Twilio Authy (full), Google Authenticator (full) |
 | [Aegis](https://github.com/beemdevelopment/Aegis) | Java | GPL-3.0 | [v3.4.3](https://github.com/beemdevelopment/Aegis/releases/tag/v3.4.3) | 13257 | Twilio Authy (full), Google Authenticator (full) |
 | [Stratum](https://github.com/stratumauth/app) | C# | GPL-3.0 | [v1.6.2](https://github.com/stratumauth/app/releases/tag/v1.6.2) signed | 4615 | Twilio Authy (full), Google Authenticator (full) |
 | [2FAuth](https://github.com/Bubka/2FAuth) | PHP | AGPL-3.0 | [v8.0.2](https://github.com/Bubka/2FAuth/releases/tag/v8.0.2) | 4175 | Google Authenticator (partial) |
