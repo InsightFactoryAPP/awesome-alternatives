@@ -12,7 +12,7 @@ End-to-end encrypted messaging apps for one-to-one and group chats on a phone or
 | [Quiet](https://github.com/TryQuiet/quiet) | TypeScript | GPL-3.0 | [@quiet/mobile@11.3.0](https://github.com/TryQuiet/quiet/releases/tag/%40quiet/mobile%4011.3.0) | 2660 | Slack (partial) |
 | [Delta Chat for Android](https://github.com/deltachat/deltachat-android) | Java | GPL-3.0 | [v2.62.0](https://github.com/deltachat/deltachat-android/releases/tag/v2.62.0) signed | 1832 | WhatsApp (partial) |
 | [Delta Chat Desktop](https://github.com/deltachat/deltachat-desktop) | TypeScript | GPL-3.0 | [v2.62.0](https://github.com/deltachat/deltachat-desktop/releases/tag/v2.62.0) signed | 1620 | WhatsApp (partial) |
-| [Session for Android](https://github.com/session-foundation/session-android) | Kotlin | GPL-3.0 | [1.33.5](https://github.com/session-foundation/session-android/releases/tag/1.33.5) signed | 918 | WhatsApp (partial) |
+| [Session for Android](https://github.com/session-foundation/session-android) | Kotlin | GPL-3.0 | [1.33.5](https://github.com/session-foundation/session-android/releases/tag/1.33.5) signed | 919 | WhatsApp (partial) |
 | [Session Desktop](https://github.com/session-foundation/session-desktop) | TypeScript | GPL-3.0 | [v1.18.1](https://github.com/session-foundation/session-desktop/releases/tag/v1.18.1) signed | 593 | WhatsApp (partial) |
 
 [All categories](../README.md#catalog)

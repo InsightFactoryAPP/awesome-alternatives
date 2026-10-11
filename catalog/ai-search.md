@@ -4,7 +4,7 @@ Answer questions from live web searches with a language model, citing the pages 
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Vane](https://github.com/ItzCrazyKns/Vane) | TypeScript | MIT | [v1.12.2](https://github.com/ItzCrazyKns/Vane/releases/tag/v1.12.2) | 37238 | Perplexity (partial) |
+| [Vane](https://github.com/ItzCrazyKns/Vane) | TypeScript | MIT | [v1.12.2](https://github.com/ItzCrazyKns/Vane/releases/tag/v1.12.2) | 37240 | Perplexity (partial) |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Python | Apache-2.0 | [v3.7.0](https://github.com/assafelovic/gpt-researcher/releases/tag/v3.7.0) signed | 30011 | Perplexity (partial) |
 | [Scira](https://github.com/zaidmukaddam/scira) | TypeScript | AGPL-3.0 | none | 11897 | Perplexity (partial) |
 | [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) | Python | MIT | [v1.10.7](https://github.com/LearningCircuit/local-deep-research/releases/tag/v1.10.7) signed | 9182 | Perplexity (partial) |

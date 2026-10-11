@@ -12,7 +12,7 @@ Build and run OCI containers.
 | [runc](https://github.com/opencontainers/runc) | Go | Apache-2.0 | [v1.5.2](https://github.com/opencontainers/runc/releases/tag/v1.5.2) signed | 13484 | none |
 | [nerdctl](https://github.com/containerd/nerdctl) | Go | Apache-2.0 | [v2.4.1](https://github.com/containerd/nerdctl/releases/tag/v2.4.1) signed | 10425 | Docker Engine (Moby) (full) |
 | [BuildKit](https://github.com/moby/buildkit) | Go | Apache-2.0 | [v0.34.0](https://github.com/moby/buildkit/releases/tag/v0.34.0) signed | 10316 | none |
-| [Buildah](https://github.com/podman-container-tools/buildah) | Go | Apache-2.0 | [v1.45.1](https://github.com/podman-container-tools/buildah/releases/tag/v1.45.1) signed | 9072 | Docker Engine (Moby) (partial) |
+| [Buildah](https://github.com/podman-container-tools/buildah) | Go | Apache-2.0 | [v1.45.1](https://github.com/podman-container-tools/buildah/releases/tag/v1.45.1) signed | 9074 | Docker Engine (Moby) (partial) |
 | [Kata Containers](https://github.com/kata-containers/kata-containers) | Rust | Apache-2.0 | [4.2.0](https://github.com/kata-containers/kata-containers/releases/tag/4.2.0) signed | 8916 | runc (drop-in) |
 | [ko](https://github.com/ko-build/ko) | Go | Apache-2.0 | [v0.19.1](https://github.com/ko-build/ko/releases/tag/v0.19.1) | 8563 | Docker Engine (Moby) (partial) |
 | [youki](https://github.com/youki-dev/youki) | Rust | Apache-2.0 | [v0.7.0](https://github.com/youki-dev/youki/releases/tag/v0.7.0) signed | 7631 | runc (drop-in) |

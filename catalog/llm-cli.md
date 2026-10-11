@@ -4,7 +4,7 @@ Prompt language models from a terminal and pipe their answers into other command
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Fabric](https://github.com/danielmiessler/Fabric) | Go | MIT | [v1.4.518](https://github.com/danielmiessler/Fabric/releases/tag/v1.4.518) | 44215 | ChatGPT (partial) |
+| [Fabric](https://github.com/danielmiessler/Fabric) | Go | MIT | [v1.4.518](https://github.com/danielmiessler/Fabric/releases/tag/v1.4.518) | 44218 | ChatGPT (partial) |
 | [LLM](https://github.com/simonw/llm) | Python | Apache-2.0 | [0.36](https://github.com/simonw/llm/releases/tag/0.36) | 12605 | ChatGPT (partial) |
 | [ShellGPT](https://github.com/TheR1D/shell_gpt) | Python | MIT | [1.5.1](https://github.com/TheR1D/shell_gpt/releases/tag/1.5.1) signed | 12291 | ChatGPT (partial) |
 | [tgpt](https://github.com/aandrew-me/tgpt) | Go | GPL-3.0 | [v2.15.0](https://github.com/aandrew-me/tgpt/releases/tag/v2.15.0) | 3275 | ChatGPT (partial) |

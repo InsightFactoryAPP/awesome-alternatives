@@ -4,7 +4,7 @@ Drive real browsers for end-to-end tests.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Playwright](https://github.com/microsoft/playwright) | TypeScript | Apache-2.0 | [v1.64.0](https://github.com/microsoft/playwright/releases/tag/v1.64.0) | 97455 | Selenium (full), Puppeteer (full), Cypress (full) |
+| [Playwright](https://github.com/microsoft/playwright) | TypeScript | Apache-2.0 | [v1.64.0](https://github.com/microsoft/playwright/releases/tag/v1.64.0) | 97460 | Selenium (full), Puppeteer (full), Cypress (full) |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | TypeScript | Apache-2.0 | [browsers-v3.2.4](https://github.com/puppeteer/puppeteer/releases/tag/browsers-v3.2.4) signed | 95678 | Selenium (partial) |
 | [Cypress](https://github.com/cypress-io/cypress) | TypeScript | MIT | [v16.1.1](https://github.com/cypress-io/cypress/releases/tag/v16.1.1) | 51045 | Selenium (partial) |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | Java | Apache-2.0 | [selenium-4.51.0](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.51.0) signed | 34523 | none |

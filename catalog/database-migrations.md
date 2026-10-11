@@ -12,11 +12,11 @@ Version and apply database schema changes.
 | [Atlas](https://github.com/ariga/atlas) | Go | Apache-2.0 | [v1.3.0](https://github.com/ariga/atlas/releases/tag/v1.3.0) signed | 8766 | Liquibase (full), Flyway (full) |
 | [dbmate](https://github.com/amacneil/dbmate) | Go | MIT | [v2.36.0](https://github.com/amacneil/dbmate/releases/tag/v2.36.0) signed | 7446 | Flyway (full), Liquibase (partial) |
 | [Archery](https://github.com/hhyo/Archery) | Python | Apache-2.0 | [v1.14.0](https://github.com/hhyo/Archery/releases/tag/v1.14.0) | 7060 | Bytebase (partial) |
-| [pgroll](https://github.com/xataio/pgroll) | Go | Apache-2.0 | [v0.16.3](https://github.com/xataio/pgroll/releases/tag/v0.16.3) | 6597 | Flyway (partial) |
+| [pgroll](https://github.com/xataio/pgroll) | Go | Apache-2.0 | [v0.16.3](https://github.com/xataio/pgroll/releases/tag/v0.16.3) | 6598 | Flyway (partial) |
 | [Liquibase](https://github.com/liquibase/liquibase) | Java | Other | [v5.0.4](https://github.com/liquibase/liquibase/releases/tag/v5.0.4) signed | 5622 | Flyway (full) |
 | [Alembic](https://github.com/sqlalchemy/alembic) | Python | MIT | [rel_1_20_0](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_20_0) | 4445 | Flyway (partial) |
 | [sqldef](https://github.com/sqldef/sqldef) | Go | Other | [v3.11.26](https://github.com/sqldef/sqldef/releases/tag/v3.11.26) signed | 3177 | Atlas (partial) |
-| [Sqitch](https://github.com/sqitchers/sqitch) | Perl | MIT | [v1.6.1](https://github.com/sqitchers/sqitch/releases/tag/v1.6.1) signed | 3169 | Liquibase (full) |
+| [Sqitch](https://github.com/sqitchers/sqitch) | Perl | MIT | [v1.6.1](https://github.com/sqitchers/sqitch/releases/tag/v1.6.1) signed | 3170 | Liquibase (full) |
 | [Refinery](https://github.com/rust-db/refinery) | Rust | MIT | [v0.10.0](https://github.com/rust-db/refinery/releases/tag/v0.10.0) | 1705 | Flyway (partial) |
 | [Skeema](https://github.com/skeema/skeema) | Go | Apache-2.0 | [v1.14.1](https://github.com/skeema/skeema/releases/tag/v1.14.1) | 1381 | Atlas (partial) |
 

@@ -4,10 +4,10 @@ Check that services answer, alert when they do not, and publish a status page.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | JavaScript | MIT | [2.5.6](https://github.com/louislam/uptime-kuma/releases/tag/2.5.6) signed | 92312 | Pingdom (full), Statuspage (full), Cronitor (partial) |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | JavaScript | MIT | [2.5.6](https://github.com/louislam/uptime-kuma/releases/tag/2.5.6) signed | 92311 | Pingdom (full), Statuspage (full), Cronitor (partial) |
 | [Upptime](https://github.com/upptime/upptime) | Markdown | MIT | [v2.0.0](https://github.com/upptime/upptime/releases/tag/v2.0.0) signed | 17176 | Pingdom (partial), Statuspage (full) |
 | [Cachet](https://github.com/cachethq/cachet) | PHP | Other | [v2.4.1](https://github.com/cachethq/cachet/releases/tag/v2.4.1) | 15254 | Statuspage (full) |
-| [Gatus](https://github.com/TwiN/gatus) | Go | Apache-2.0 | [v5.37.0](https://github.com/TwiN/gatus/releases/tag/v5.37.0) signed | 12280 | Uptime Kuma (full), Pingdom (full), Statuspage (full), Cronitor (partial) |
+| [Gatus](https://github.com/TwiN/gatus) | Go | Apache-2.0 | [v5.37.0](https://github.com/TwiN/gatus/releases/tag/v5.37.0) signed | 12281 | Uptime Kuma (full), Pingdom (full), Statuspage (full), Cronitor (partial) |
 | [Checkmate](https://github.com/bluewave-labs/Checkmate) | TypeScript | AGPL-3.0 | [v3.12.0](https://github.com/bluewave-labs/Checkmate/releases/tag/v3.12.0) signed | 10924 | Pingdom (full), Statuspage (full) |
 | [Healthchecks](https://github.com/healthchecks/healthchecks) | Python | BSD-3-Clause | [v4.4](https://github.com/healthchecks/healthchecks/releases/tag/v4.4) signed | 10409 | Cronitor (partial) |
 | [OpenStatus](https://github.com/openstatusHQ/openstatus) | TypeScript | AGPL-3.0 | none | 9178 | Statuspage (full), UptimeRobot (full) |

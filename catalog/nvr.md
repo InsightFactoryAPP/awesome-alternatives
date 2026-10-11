@@ -4,7 +4,7 @@ Record, watch and analyse IP camera streams on your own hardware.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Frigate](https://github.com/blakeblackshear/frigate) | Python | MIT | [v0.18.0](https://github.com/blakeblackshear/frigate/releases/tag/v0.18.0) signed | 36487 | Blue Iris (full), Ring (partial), Google Nest Aware (partial) |
+| [Frigate](https://github.com/blakeblackshear/frigate) | Python | MIT | [v0.18.0](https://github.com/blakeblackshear/frigate/releases/tag/v0.18.0) signed | 36488 | Blue Iris (full), Ring (partial), Google Nest Aware (partial) |
 | [go2rtc](https://github.com/AlexxIT/go2rtc) | Go | MIT | [v1.9.14](https://github.com/AlexxIT/go2rtc/releases/tag/v1.9.14) | 14348 | Scrypted (partial) |
 | [Scrypted](https://github.com/koush/scrypted) | TypeScript | Other | [v0.147.0](https://github.com/koush/scrypted/releases/tag/v0.147.0) | 6003 | Blue Iris (partial), Google Nest Aware (partial), Ring (partial) |
 | [ZoneMinder](https://github.com/ZoneMinder/zoneminder) | PHP | GPL-2.0 | [1.38.6](https://github.com/ZoneMinder/zoneminder/releases/tag/1.38.6) | 5940 | Blue Iris (full) |

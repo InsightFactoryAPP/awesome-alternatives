@@ -6,7 +6,7 @@ Desktop, mobile and terminal apps that read and send mail over IMAP and SMTP.
 |---|---|---|---|---:|---|
 | [Mailspring](https://github.com/Foundry376/Mailspring) | TypeScript | GPL-3.0 | [1.26.0](https://github.com/Foundry376/Mailspring/releases/tag/1.26.0) | 17901 | Microsoft Outlook (partial), Superhuman (partial) |
 | [Thunderbird for Android](https://github.com/thunderbird/thunderbird-android) | Kotlin | Apache-2.0 | [K9MAIL_24_0](https://github.com/thunderbird/thunderbird-android/releases/tag/K9MAIL_24_0) | 14092 | Microsoft Outlook (partial) |
-| [Inbox Zero](https://github.com/elie222/inbox-zero) | TypeScript | Other | [desktop-v0.1.19](https://github.com/elie222/inbox-zero/releases/tag/desktop-v0.1.19) | 12443 | Superhuman (partial) |
+| [Inbox Zero](https://github.com/elie222/inbox-zero) | TypeScript | Other | [desktop-v0.1.19](https://github.com/elie222/inbox-zero/releases/tag/desktop-v0.1.19) | 12444 | Superhuman (partial) |
 | [Zero](https://github.com/Mail-0/Zero) | TypeScript | MIT | [v0.1](https://github.com/Mail-0/Zero/releases/tag/v0.1) signed | 10846 | Superhuman (partial) |
 | [Himalaya](https://github.com/pimalaya/himalaya) | Rust | Apache-2.0 | [v2.2.1](https://github.com/pimalaya/himalaya/releases/tag/v2.2.1) signed | 7423 | NeoMutt (partial) |
 | [FairEmail](https://github.com/M66B/FairEmail) | Java | GPL-3.0 | [1.2338](https://github.com/M66B/FairEmail/releases/tag/1.2338) | 4705 | Microsoft Outlook (partial) |

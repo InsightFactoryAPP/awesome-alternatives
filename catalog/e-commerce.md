@@ -4,7 +4,7 @@ Run an online store, from catalogue to checkout, or ring up in-store sales and p
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Medusa](https://github.com/medusajs/medusa) | TypeScript | Other | [v2.21.2](https://github.com/medusajs/medusa/releases/tag/v2.21.2) signed | 36695 | Shopify (partial) |
+| [Medusa](https://github.com/medusajs/medusa) | TypeScript | Other | [v2.21.2](https://github.com/medusajs/medusa/releases/tag/v2.21.2) signed | 36696 | Shopify (partial) |
 | [Bagisto](https://github.com/bagisto/bagisto) | PHP | MIT | [v2.5.0](https://github.com/bagisto/bagisto/releases/tag/v2.5.0) | 28228 | Shopify (full) |
 | [Saleor](https://github.com/saleor/saleor) | Python | BSD-3-Clause | [3.23.41](https://github.com/saleor/saleor/releases/tag/3.23.41) signed | 23429 | Shopify (partial) |
 | [Spree Commerce](https://github.com/spree/spree) | Ruby | BSD-3-Clause | [v5.6.1](https://github.com/spree/spree/releases/tag/v5.6.1) | 15751 | Shopify (full) |
@@ -21,7 +21,7 @@ Run an online store, from catalogue to checkout, or ring up in-store sales and p
 | [Solidus](https://github.com/solidusio/solidus) | Ruby | BSD-3-Clause | [v4.8.0](https://github.com/solidusio/solidus/releases/tag/v4.8.0) signed | 5338 | Shopify (partial) |
 | [Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos) | PHP | Other | [3.4.2](https://github.com/opensourcepos/opensourcepos/releases/tag/3.4.2) | 4431 | Square Point of Sale (partial) |
 | [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) | PHP | MIT | [v4.4.3](https://github.com/tastyigniter/TastyIgniter/releases/tag/v4.4.3) signed | 3783 | Square Point of Sale (partial) |
-| [Lunar](https://github.com/lunarphp/lunar) | PHP | MIT | [1.5.0](https://github.com/lunarphp/lunar/releases/tag/1.5.0) signed | 3751 | Shopify (partial) |
+| [Lunar](https://github.com/lunarphp/lunar) | PHP | MIT | [1.5.0](https://github.com/lunarphp/lunar/releases/tag/1.5.0) signed | 3752 | Shopify (partial) |
 | [Shopware](https://github.com/shopware/shopware) | PHP | MIT | [v6.7.15.1](https://github.com/shopware/shopware/releases/tag/v6.7.15.1) signed | 3446 | Shopify (full) |
 | [NexoPOS](https://github.com/Blair2004/NexoPOS) | PHP | GPL-3.0 | [v6.2.4](https://github.com/Blair2004/NexoPOS/releases/tag/v6.2.4) | 1271 | Square Point of Sale (partial) |
 | [Shopper](https://github.com/shopperlabs/shopper) | PHP | MIT | [v2.12.0](https://github.com/shopperlabs/shopper/releases/tag/v2.12.0) signed | 1258 | Shopify (partial) |

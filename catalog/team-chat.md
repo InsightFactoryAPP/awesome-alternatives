@@ -16,7 +16,7 @@ Self-hosted messaging for teams.
 | [Stoat](https://github.com/stoatchat/stoatchat) | Rust | Other | [v0.15.7](https://github.com/stoatchat/stoatchat/releases/tag/v0.15.7) | 3387 | Discord (full) |
 | [Openfire](https://github.com/igniterealtime/Openfire) | Java | Apache-2.0 | [v5.1.2](https://github.com/igniterealtime/Openfire/releases/tag/v5.1.2) signed | 3071 | Slack (partial) |
 | [Wire Server](https://github.com/wireapp/wire-server) | Haskell | AGPL-3.0 | [v2026-10-05](https://github.com/wireapp/wire-server/releases/tag/v2026-10-05) signed | 2779 | Slack (partial), Microsoft Teams (partial) |
-| [Tuwunel](https://github.com/matrix-construct/tuwunel) | Rust | Apache-2.0 | [v1.9.4](https://github.com/matrix-construct/tuwunel/releases/tag/v1.9.4) | 2613 | Synapse (full) |
+| [Tuwunel](https://github.com/matrix-construct/tuwunel) | Rust | Apache-2.0 | [v1.9.4](https://github.com/matrix-construct/tuwunel/releases/tag/v1.9.4) | 2614 | Synapse (full) |
 | [Spacebar](https://github.com/spacebarchat/server) | TypeScript | AGPL-3.0 | none | 2205 | Discord (partial) |
 | [MongooseIM](https://github.com/esl/MongooseIM) | Erlang | Other | [6.9.0](https://github.com/esl/MongooseIM/releases/tag/6.9.0) | 1760 | Slack (partial) |
 | [Dendrite](https://github.com/element-hq/dendrite) | Go | AGPL-3.0 | [v0.15.2](https://github.com/element-hq/dendrite/releases/tag/v0.15.2) | 978 | Synapse (partial) |

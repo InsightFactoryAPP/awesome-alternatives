@@ -4,9 +4,9 @@ Single sign-on, user directories and MFA over OpenID Connect, SAML or LDAP, incl
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Keycloak](https://github.com/keycloak/keycloak) | Java | Apache-2.0 | [26.8.0](https://github.com/keycloak/keycloak/releases/tag/26.8.0) | 37281 | Okta (full), Auth0 (full) |
+| [Keycloak](https://github.com/keycloak/keycloak) | Java | Apache-2.0 | [26.8.0](https://github.com/keycloak/keycloak/releases/tag/26.8.0) | 37286 | Okta (full), Auth0 (full) |
 | [Authelia](https://github.com/authelia/authelia) | Go | Apache-2.0 | [v4.39.28](https://github.com/authelia/authelia/releases/tag/v4.39.28) signed | 29234 | Okta (partial), Duo (partial) |
-| [authentik](https://github.com/goauthentik/authentik) | Python | Other | [version/2026.8.3](https://github.com/goauthentik/authentik/releases/tag/version/2026.8.3) | 25914 | Okta (full), Auth0 (full), Keycloak (full) |
+| [authentik](https://github.com/goauthentik/authentik) | Python | Other | [version/2026.8.3](https://github.com/goauthentik/authentik/releases/tag/version/2026.8.3) | 25916 | Okta (full), Auth0 (full), Keycloak (full) |
 | [Ory Hydra](https://github.com/ory/hydra) | Go | Apache-2.0 | [v26.2.0](https://github.com/ory/hydra/releases/tag/v26.2.0) | 17599 | Auth0 (partial) |
 | [SuperTokens](https://github.com/supertokens/supertokens-core) | Java | Other | [v12.2.0](https://github.com/supertokens/supertokens-core/releases/tag/v12.2.0) | 15343 | Auth0 (full), Clerk (partial) |
 | [ZITADEL](https://github.com/zitadel/zitadel) | Go | AGPL-3.0 | [v4.19.4](https://github.com/zitadel/zitadel/releases/tag/v4.19.4) signed | 15276 | Auth0 (full), Okta (partial) |
@@ -19,7 +19,7 @@ Single sign-on, user directories and MFA over OpenID Connect, SAML or LDAP, incl
 | [Hanko](https://github.com/teamhanko/hanko) | Go | Other | [backend/v3.1.0](https://github.com/teamhanko/hanko/releases/tag/backend/v3.1.0) signed | 9041 | Clerk (partial), Auth0 (partial) |
 | [Tinyauth](https://github.com/tinyauthapp/tinyauth) | Go | AGPL-3.0 | [v5.2.0](https://github.com/tinyauthapp/tinyauth/releases/tag/v5.2.0) signed | 8360 | Authelia (partial) |
 | [Hexclave](https://github.com/hexclave/hexclave) | TypeScript | Other | [dashboard-v1.0.126](https://github.com/hexclave/hexclave/releases/tag/dashboard-v1.0.126) | 6861 | Clerk (full) |
-| [Kanidm](https://github.com/kanidm/kanidm) | Rust | MPL-2.0 | [v1.11.2](https://github.com/kanidm/kanidm/releases/tag/v1.11.2) | 5450 | Okta (partial), Keycloak (partial), Active Directory (partial) |
+| [Kanidm](https://github.com/kanidm/kanidm) | Rust | MPL-2.0 | [v1.11.2](https://github.com/kanidm/kanidm/releases/tag/v1.11.2) | 5451 | Okta (partial), Keycloak (partial), Active Directory (partial) |
 | [VoidAuth](https://github.com/voidauth/voidauth) | TypeScript | AGPL-3.0 | [v1.16.0](https://github.com/voidauth/voidauth/releases/tag/v1.16.0) signed | 2869 | authentik (partial), Authelia (partial) |
 | [Authorizer](https://github.com/authorizerdev/authorizer) | Go | Apache-2.0 | [2.4.1](https://github.com/authorizerdev/authorizer/releases/tag/2.4.1) signed | 2111 | Auth0 (partial) |
 | [privacyIDEA](https://github.com/privacyidea/privacyidea) | Python | AGPL-3.0 | [v3.14](https://github.com/privacyidea/privacyidea/releases/tag/v3.14) | 1782 | Duo (full) |
