@@ -4,6 +4,12 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.136.0] - 2026-10-11
+
+### Features
+
+- feat(catalog): add the games lane (#433)
+
 ## [0.135.1] - 2026-10-11
 
 ### Bug Fixes
