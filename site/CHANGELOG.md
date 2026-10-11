@@ -4,6 +4,12 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.134.2] - 2026-10-11
+
+### Bug Fixes
+
+- chore(catalog): refresh zen-idp
+
 ## [0.134.1] - 2026-10-10
 
 ### Bug Fixes
