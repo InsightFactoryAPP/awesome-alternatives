@@ -331196,10 +331196,10 @@
           "note": "Same single-binary self-hosted OIDC idea, with users and clients in YAML and TOTP instead of passkeys."
         }
       ],
-      "affiliation": "Suggested by its maintainers.",
+      "affiliation": null,
       "path": null,
       "addedAt": "2026-10-10T10:26:49.000Z",
-      "editedAt": "2026-10-10T10:26:49.000Z",
+      "editedAt": "2026-10-11T08:36:30.000Z",
       "factsChangedAt": null,
       "repo": {
         "fullName": "varavelio/zen-idp",
@@ -331226,10 +331226,14 @@
         "pushedAt": "2026-08-19T02:47:43Z",
         "defaultBranch": "main"
       },
-      "trend": null,
+      "trend": {
+        "stars": 0,
+        "exact": false,
+        "since": "2026-10-10T23:59:59.999Z"
+      },
       "starHistory": {
         "from": "2026-10-10",
-        "stars": [15]
+        "stars": [15,15]
       },
       "release": {
         "tag": "v0.1.0",
@@ -340528,5 +340532,54 @@
       "name": "Cryptography libraries",
       "description": "Libraries that implement TLS and cryptographic primitives for other software."
     }
+  },
+  "categoryRedirects": {
+    "bittorrent-client": "download-manager",
+    "build-cache": "build-system",
+    "captcha": "waf",
+    "code-assistant": "coding-agent",
+    "command-benchmark": "profiler",
+    "commit-lint": "git-hooks",
+    "compiler": "programming-language",
+    "config-file-lint": "lint-format",
+    "continuous-profiling": "tracing",
+    "desktop-app-framework": "app-framework",
+    "dmarc-reporting": "mail-server",
+    "email-archiving": "mail-server",
+    "feed-generator": "feed-reader",
+    "file-finder": "code-search",
+    "game-map-editor": "game-engine",
+    "git-extensions": "git-client",
+    "go-lint": "lint-format",
+    "grpc-client": "api-client",
+    "home-inventory": "inventory",
+    "iac-scanner": "vulnerability-scanner",
+    "jvm-lint-format": "lint-format",
+    "local-kubernetes": "container-desktop",
+    "log-viewer": "file-viewer",
+    "lua-lint-format": "lint-format",
+    "markdown-lint": "lint-format",
+    "mfa-server": "identity-provider",
+    "microblogging": "social-network",
+    "mobile-app-framework": "app-framework",
+    "multi-language-formatter": "lint-format",
+    "music-tagger": "music-player",
+    "pcb-design": "cad",
+    "photo-sharing": "social-network",
+    "php-lint-format": "lint-format",
+    "podcast-server": "media-server",
+    "point-of-sale": "e-commerce",
+    "repository-statistics": "code-statistics",
+    "ruby-lint-format": "lint-format",
+    "runbook-automation": "workflow-automation",
+    "sbom-tool": "supply-chain-security",
+    "semantic-layer": "data-transformation",
+    "shell-history": "fuzzy-finder",
+    "shell-lint-format": "lint-format",
+    "spell-checker": "lint-format",
+    "sql-lint-format": "lint-format",
+    "swift-lint-format": "lint-format",
+    "terminal-recording": "screen-recording",
+    "web-file-manager": "file-sync"
   }
 }
