@@ -14,7 +14,7 @@ Durable, partitioned logs for events and messages.
 | [AutoMQ](https://github.com/AutoMQ/automq) | Java | Apache-2.0 | [1.7.5-rc1](https://github.com/AutoMQ/automq/releases/tag/1.7.5-rc1) | 10908 | Apache Kafka (drop-in), Confluent Cloud (full) |
 | [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) | Java | Apache-2.0 | [1.2.0](https://github.com/strimzi/strimzi-kafka-operator/releases/tag/1.2.0) | 5948 | Confluent Cloud (partial) |
 | [Fluvio](https://github.com/fluvio-community/fluvio) | Rust | Apache-2.0 | [v0.18.1](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1) signed | 5257 | Apache Kafka (partial) |
-| [Apache Iggy](https://github.com/apache/iggy) | Rust | Apache-2.0 | [server-0.9.0](https://github.com/apache/iggy/releases/tag/server-0.9.0) | 5064 | Apache Kafka (partial) |
+| [Apache Iggy](https://github.com/apache/iggy) | Rust | Apache-2.0 | [server-0.9.0](https://github.com/apache/iggy/releases/tag/server-0.9.0) | 5065 | Apache Kafka (partial) |
 | [ElasticMQ](https://github.com/softwaremill/elasticmq) | Scala | Apache-2.0 | [v1.7.1](https://github.com/softwaremill/elasticmq/releases/tag/v1.7.1) signed | 2946 | Amazon SQS (drop-in) |
 | [Apache ActiveMQ](https://github.com/apache/activemq) | Java | Apache-2.0 | [activemq-6.3.2](https://github.com/apache/activemq/releases/tag/activemq-6.3.2) signed | 2465 | Amazon MQ (full) |
 | [Apache ActiveMQ Artemis](https://github.com/apache/artemis) | Java | Apache-2.0 | [2.57.0](https://github.com/apache/artemis/releases/tag/2.57.0) | 1065 | Amazon MQ (partial) |

@@ -10,7 +10,7 @@ Browse, preview and move files from a keyboard-driven interface in the terminal.
 | [ranger](https://github.com/ranger/ranger) | Python | GPL-3.0 | [v1.9.4](https://github.com/ranger/ranger/releases/tag/v1.9.4) signed | 17424 | Midnight Commander (partial) |
 | [lf](https://github.com/gokcehan/lf) | Go | MIT | [r42](https://github.com/gokcehan/lf/releases/tag/r42) signed | 9546 | ranger (full) |
 | [xplr](https://github.com/sayanarijit/xplr) | Rust | MIT | [v1.1.2](https://github.com/sayanarijit/xplr/releases/tag/v1.1.2) | 4838 | ranger (partial), nnn (partial) |
-| [joshuto](https://github.com/kamiyaa/joshuto) | Rust | LGPL-3.0 | [v0.9.9](https://github.com/kamiyaa/joshuto/releases/tag/v0.9.9) | 3735 | ranger (full) |
+| [joshuto](https://github.com/kamiyaa/joshuto) | Rust | LGPL-3.0 | [v0.9.9](https://github.com/kamiyaa/joshuto/releases/tag/v0.9.9) | 3736 | ranger (full) |
 | [Vifm](https://github.com/vifm/vifm) | C | GPL-2.0 | [v0.14.4](https://github.com/vifm/vifm/releases/tag/v0.14.4) signed | 3280 | ranger (full), Midnight Commander (partial) |
 | [Far Manager](https://github.com/FarGroup/FarManager) | C++ | BSD-3-Clause | [ci/v3.0.6744.5019](https://github.com/FarGroup/FarManager/releases/tag/ci/v3.0.6744.5019) signed | 2239 | Midnight Commander (full), Total Commander (partial) |
 | [far2l](https://github.com/elfmz/far2l) | C++ | GPL-2.0 | [v_2.9.1](https://github.com/elfmz/far2l/releases/tag/v_2.9.1) | 2221 | Far Manager (full) |

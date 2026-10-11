@@ -11,7 +11,7 @@ Desktop and web clients to browse, edit and query databases.
 | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) | TypeScript | Other | [v6.1.6](https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v6.1.6) | 23720 | TablePlus (full), DataGrip (partial) |
 | [pgcli](https://github.com/dbcli/pgcli) | Python | BSD-3-Clause | [v4.7.1](https://github.com/dbcli/pgcli/releases/tag/v4.7.1) | 13415 | pgAdmin 4 (partial) |
 | [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) | Vue | GPL-3.0 | [v1.2.7](https://github.com/tiny-craft/tiny-rdm/releases/tag/v1.2.7) signed | 13131 | Redis Insight (full), Another Redis Desktop Manager (full) |
-| [mycli](https://github.com/dbcli/mycli) | Python | BSD-3-Clause | [v2.29.2](https://github.com/dbcli/mycli/releases/tag/v2.29.2) signed | 11980 | MySQL Workbench (partial) |
+| [mycli](https://github.com/dbcli/mycli) | Python | BSD-3-Clause | [v2.29.3](https://github.com/dbcli/mycli/releases/tag/v2.29.3) signed | 11980 | MySQL Workbench (partial) |
 | [Datasette](https://github.com/simonw/datasette) | Python | Apache-2.0 | [0.65.5](https://github.com/simonw/datasette/releases/tag/0.65.5) | 11512 | none |
 | [usql](https://github.com/xo/usql) | Go | MIT | [v0.21.6](https://github.com/xo/usql/releases/tag/v0.21.6) | 10136 | DataGrip (partial) |
 | [Redis Insight](https://github.com/redis/RedisInsight) | TypeScript | Other | [3.8.0](https://github.com/redis/RedisInsight/releases/tag/3.8.0) signed | 8890 | Another Redis Desktop Manager (full) |

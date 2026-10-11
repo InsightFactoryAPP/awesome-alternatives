@@ -10,7 +10,7 @@ Run an online store, from catalogue to checkout, or ring up in-store sales and p
 | [Spree Commerce](https://github.com/spree/spree) | Ruby | BSD-3-Clause | [v5.6.1](https://github.com/spree/spree/releases/tag/v5.6.1) | 15751 | Shopify (full) |
 | [Magento Open Source](https://github.com/magento/magento2) | PHP | OSL-3.0 | [2.4.9](https://github.com/magento/magento2/releases/tag/2.4.9) | 12199 | Shopify (full) |
 | [WooCommerce](https://github.com/woocommerce/woocommerce) | PHP | Other | [11.1.2](https://github.com/woocommerce/woocommerce/releases/tag/11.1.2) signed | 10546 | Shopify (full) |
-| [EverShop](https://github.com/evershopcommerce/evershop) | TypeScript | GPL-3.0 | [v2.3.0](https://github.com/evershopcommerce/evershop/releases/tag/v2.3.0) | 10501 | Shopify (full) |
+| [EverShop](https://github.com/evershopcommerce/evershop) | TypeScript | GPL-3.0 | [v2.3.0](https://github.com/evershopcommerce/evershop/releases/tag/v2.3.0) | 10502 | Shopify (full) |
 | [nopCommerce](https://github.com/nopSolutions/nopCommerce) | C# | Other | [release-4.90.8](https://github.com/nopSolutions/nopCommerce/releases/tag/release-4.90.8) | 10157 | Shopify (full) |
 | [PrestaShop](https://github.com/PrestaShop/PrestaShop) | PHP | Other | [9.2.0](https://github.com/PrestaShop/PrestaShop/releases/tag/9.2.0) signed | 9226 | Shopify (full) |
 | [Aimeos](https://github.com/aimeos/aimeos-laravel) | PHP | MIT | [2026.10.1](https://github.com/aimeos/aimeos-laravel/releases/tag/2026.10.1) | 8703 | Shopify (partial) |
@@ -20,7 +20,7 @@ Run an online store, from catalogue to checkout, or ring up in-store sales and p
 | [Django Oscar](https://github.com/django-oscar/django-oscar) | Python | BSD-3-Clause | [4.2.1](https://github.com/django-oscar/django-oscar/releases/tag/4.2.1) signed | 6624 | Shopify (partial) |
 | [Solidus](https://github.com/solidusio/solidus) | Ruby | BSD-3-Clause | [v4.8.0](https://github.com/solidusio/solidus/releases/tag/v4.8.0) signed | 5338 | Shopify (partial) |
 | [Open Source Point of Sale](https://github.com/opensourcepos/opensourcepos) | PHP | Other | [3.4.2](https://github.com/opensourcepos/opensourcepos/releases/tag/3.4.2) | 4431 | Square Point of Sale (partial) |
-| [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) | PHP | MIT | [v4.4.3](https://github.com/tastyigniter/TastyIgniter/releases/tag/v4.4.3) signed | 3783 | Square Point of Sale (partial) |
+| [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) | PHP | MIT | [v4.4.3](https://github.com/tastyigniter/TastyIgniter/releases/tag/v4.4.3) signed | 3784 | Square Point of Sale (partial) |
 | [Lunar](https://github.com/lunarphp/lunar) | PHP | MIT | [1.5.0](https://github.com/lunarphp/lunar/releases/tag/1.5.0) signed | 3752 | Shopify (partial) |
 | [Shopware](https://github.com/shopware/shopware) | PHP | MIT | [v6.7.15.1](https://github.com/shopware/shopware/releases/tag/v6.7.15.1) signed | 3446 | Shopify (full) |
 | [NexoPOS](https://github.com/Blair2004/NexoPOS) | PHP | GPL-3.0 | [v6.2.4](https://github.com/Blair2004/NexoPOS/releases/tag/v6.2.4) | 1271 | Square Point of Sale (partial) |

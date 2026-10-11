@@ -4,7 +4,7 @@ Design and prototype user interfaces on a shared canvas.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Penpot](https://github.com/penpot/penpot) | Clojure | MPL-2.0 | [2.18.3](https://github.com/penpot/penpot/releases/tag/2.18.3) | 60898 | Figma (full), Canva (partial), Axure RP (partial), Balsamiq (partial) |
+| [Penpot](https://github.com/penpot/penpot) | Clojure | MPL-2.0 | [2.18.3](https://github.com/penpot/penpot/releases/tag/2.18.3) | 60900 | Figma (full), Canva (partial), Axure RP (partial), Balsamiq (partial) |
 | [Onlook](https://github.com/onlook-dev/onlook) | TypeScript | Apache-2.0 | [v0.2.32](https://github.com/onlook-dev/onlook/releases/tag/v0.2.32) signed | 26892 | Figma (partial) |
 | [GrapesJS](https://github.com/GrapesJS/grapesjs) | TypeScript | Other | [v0.23.6](https://github.com/GrapesJS/grapesjs/releases/tag/v0.23.6) signed | 26297 | Webflow (partial) |
 | [Puck](https://github.com/puckeditor/puck) | TypeScript | MIT | [v0.23.0](https://github.com/puckeditor/puck/releases/tag/v0.23.0) | 13457 | Webflow (partial), Plasmic (partial) |

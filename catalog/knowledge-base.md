@@ -4,10 +4,10 @@ Shared pages and documentation for teams, edited in the browser.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Dart | AGPL-3.0 | [0.14.8](https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.14.8) signed | 77224 | Notion (full) |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | Other | [v0.27.4](https://github.com/toeverything/AFFiNE/releases/tag/v0.27.4) | 73376 | Notion (full), Miro (partial), OneNote (partial) |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Dart | AGPL-3.0 | [0.14.8](https://github.com/AppFlowy-IO/AppFlowy/releases/tag/0.14.8) signed | 77223 | Notion (full) |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | Other | [v0.27.4](https://github.com/toeverything/AFFiNE/releases/tag/v0.27.4) | 73377 | Notion (full), Miro (partial), OneNote (partial) |
 | [Outline](https://github.com/outline/outline) | TypeScript | Other | [v1.10.1](https://github.com/outline/outline/releases/tag/v1.10.1) signed | 40862 | Notion (partial), Confluence (full), HackMD (partial) |
-| [Wiki.js](https://github.com/requarks/wiki) | Vue | AGPL-3.0 | [3.0.0-beta.651](https://github.com/requarks/wiki/releases/tag/3.0.0-beta.651) signed | 29028 | Confluence (full) |
+| [Wiki.js](https://github.com/requarks/wiki) | Vue | AGPL-3.0 | [3.0.0-beta.651](https://github.com/requarks/wiki/releases/tag/3.0.0-beta.651) signed | 29029 | Confluence (full) |
 | [Docmost](https://github.com/docmost/docmost) | TypeScript | AGPL-3.0 | [v0.96.0](https://github.com/docmost/docmost/releases/tag/v0.96.0) | 21937 | Confluence (full), Notion (partial) |
 | [BookStack](https://github.com/BookStackApp/BookStack) | PHP | MIT | [v26.09.1](https://github.com/BookStackApp/BookStack/releases/tag/v26.09.1) signed | 19080 | Confluence (full), Notion (partial) |
 | [La Suite Docs](https://github.com/suitenumerique/docs) | Python | MIT | [v6.0.0](https://github.com/suitenumerique/docs/releases/tag/v6.0.0) signed | 16911 | Notion (partial), Confluence (partial) |

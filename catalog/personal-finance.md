@@ -4,10 +4,10 @@ Track accounts, spending and budgets for a person or a household.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Maybe](https://github.com/maybe-finance/maybe) archived | Ruby | AGPL-3.0 | [v0.6.0](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0) | 54234 | none |
-| [Actual Budget](https://github.com/actualbudget/actual) | TypeScript | MIT | [v26.10.0](https://github.com/actualbudget/actual/releases/tag/v26.10.0) signed | 29432 | YNAB (full), Mint (partial), Rocket Money (partial) |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) | PHP | AGPL-3.0 | [v6.7.8](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.7.8) | 24865 | YNAB (partial), Mint (full), Monarch Money (partial), Rocket Money (partial) |
-| [Sure](https://github.com/we-promise/sure) | Ruby | AGPL-3.0 | [v0.7.5-hotfix.2](https://github.com/we-promise/sure/releases/tag/v0.7.5-hotfix.2) | 10476 | Maybe (full), Monarch Money (full), YNAB (partial), Mint (full) |
+| [Maybe](https://github.com/maybe-finance/maybe) archived | Ruby | AGPL-3.0 | [v0.6.0](https://github.com/maybe-finance/maybe/releases/tag/v0.6.0) | 54233 | none |
+| [Actual Budget](https://github.com/actualbudget/actual) | TypeScript | MIT | [v26.10.0](https://github.com/actualbudget/actual/releases/tag/v26.10.0) signed | 29434 | YNAB (full), Mint (partial), Rocket Money (partial) |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) | PHP | AGPL-3.0 | [v6.7.8](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.7.8) | 24866 | YNAB (partial), Mint (full), Monarch Money (partial), Rocket Money (partial) |
+| [Sure](https://github.com/we-promise/sure) | Ruby | AGPL-3.0 | [v0.7.5-hotfix.2](https://github.com/we-promise/sure/releases/tag/v0.7.5-hotfix.2) | 10477 | Maybe (full), Monarch Money (full), YNAB (partial), Mint (full) |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | TypeScript | AGPL-3.0 | [3.83.0](https://github.com/ghostfolio/ghostfolio/releases/tag/3.83.0) signed | 9438 | Monarch Money (partial), Empower Personal Dashboard (partial) |
 | [Wealthfolio](https://github.com/wealthfolio/wealthfolio) | Rust | AGPL-3.0 | [v3.9.1](https://github.com/wealthfolio/wealthfolio/releases/tag/v3.9.1) | 9160 | Empower Personal Dashboard (partial) |
 | [Wallos](https://github.com/ellite/Wallos) | PHP | GPL-3.0 | [v5.8.3](https://github.com/ellite/Wallos/releases/tag/v5.8.3) signed | 8660 | Rocket Money (partial) |

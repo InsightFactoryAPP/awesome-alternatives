@@ -4,7 +4,7 @@ Generate speech from text, with voice cloning on some models, on your own hardwa
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | Python | MIT | [20250606v2pro](https://github.com/RVC-Boss/GPT-SoVITS/releases/tag/20250606v2pro) signed | 62655 | ElevenLabs (partial) |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | Python | MIT | [20250606v2pro](https://github.com/RVC-Boss/GPT-SoVITS/releases/tag/20250606v2pro) signed | 62656 | ElevenLabs (partial) |
 | [Fish Speech](https://github.com/fishaudio/fish-speech) | Python | Other | [v1.5.1](https://github.com/fishaudio/fish-speech/releases/tag/v1.5.1) signed | 32995 | ElevenLabs (partial) |
 | [Chatterbox](https://github.com/resemble-ai/chatterbox) | Python | MIT | [v0.1.2](https://github.com/resemble-ai/chatterbox/releases/tag/v0.1.2) signed | 26839 | ElevenLabs (partial) |
 | [IndexTTS](https://github.com/index-tts/index-tts) | Python | Other | [v2.5.0](https://github.com/index-tts/index-tts/releases/tag/v2.5.0) signed | 24416 | ElevenLabs (partial) |

@@ -7,7 +7,7 @@ Build forms and surveys and collect the answers.
 | [Formbricks](https://github.com/formbricks/formbricks) | TypeScript | Other | [6.0.2](https://github.com/formbricks/formbricks/releases/tag/6.0.2) signed | 13081 | Typeform (full), Google Forms (full), SurveyMonkey (full), Jotform (partial), Hotjar (partial) |
 | [Typebot](https://github.com/baptisteArno/typebot.io) | TypeScript | Other | [v3.19.0](https://github.com/baptisteArno/typebot.io/releases/tag/v3.19.0) signed | 10527 | Typeform (partial) |
 | [HeyForm](https://github.com/heyform/heyform) | TypeScript | AGPL-3.0 | [v3.0.3](https://github.com/heyform/heyform/releases/tag/v3.0.3) | 9008 | Typeform (full), SurveyMonkey (partial), Jotform (partial) |
-| [OpnForm](https://github.com/OpnForm/OpnForm) | PHP | Other | [v2.5.0](https://github.com/OpnForm/OpnForm/releases/tag/v2.5.0) signed | 3800 | Typeform (full), Google Forms (full) |
+| [OpnForm](https://github.com/OpnForm/OpnForm) | PHP | Other | [v2.5.0](https://github.com/OpnForm/OpnForm/releases/tag/v2.5.0) signed | 3801 | Typeform (full), Google Forms (full) |
 | [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) | JavaScript | Other | [7.5.0+261001](https://github.com/LimeSurvey/LimeSurvey/releases/tag/7.5.0%2B261001) | 3761 | Typeform (partial), Google Forms (full), SurveyMonkey (full), Jotform (partial) |
 | [Form.io](https://github.com/formio/formio) | JavaScript | OSL-3.0 | [v4.10.1](https://github.com/formio/formio/releases/tag/v4.10.1) | 2320 | Jotform (partial) |
 | [Nextcloud Forms](https://github.com/nextcloud/forms) | JavaScript | AGPL-3.0 | [v5.4.0](https://github.com/nextcloud/forms/releases/tag/v5.4.0) signed | 384 | Google Forms (full) |

@@ -4,13 +4,13 @@ Build 2D and 3D games with an engine, an editor or a framework, design their map
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Godot](https://github.com/godotengine/godot) | C++ | MIT | [4.7.2-stable](https://github.com/godotengine/godot/releases/tag/4.7.2-stable) signed | 118245 | Unity (full), Construct (partial), GameMaker (partial), Unreal Engine (partial) |
-| [Bevy](https://github.com/bevyengine/bevy) | Rust | Apache-2.0 | [v0.20.0](https://github.com/bevyengine/bevy/releases/tag/v0.20.0) | 48862 | Unity (partial) |
+| [Godot](https://github.com/godotengine/godot) | C++ | MIT | [4.7.2-stable](https://github.com/godotengine/godot/releases/tag/4.7.2-stable) signed | 118247 | Unity (full), Construct (partial), GameMaker (partial), Unreal Engine (partial) |
+| [Bevy](https://github.com/bevyengine/bevy) | Rust | Apache-2.0 | [v0.20.0](https://github.com/bevyengine/bevy/releases/tag/v0.20.0) | 48864 | Unity (partial) |
 | [Phaser](https://github.com/phaserjs/phaser) | JavaScript | MIT | [v4.2.1](https://github.com/phaserjs/phaser/releases/tag/v4.2.1) | 40454 | Construct (partial), GameMaker (partial) |
 | [raylib](https://github.com/raysan5/raylib) | C | Zlib | [6.0](https://github.com/raysan5/raylib/releases/tag/6.0) signed | 35152 | none |
-| [GDevelop](https://github.com/4ian/GDevelop) | JavaScript | Other | [v5.6.283](https://github.com/4ian/GDevelop/releases/tag/v5.6.283) signed | 27384 | Construct (full), GameMaker (partial) |
+| [GDevelop](https://github.com/4ian/GDevelop) | JavaScript | Other | [v5.6.283](https://github.com/4ian/GDevelop/releases/tag/v5.6.283) signed | 27386 | Construct (full), GameMaker (partial) |
 | [MonoGame](https://github.com/MonoGame/MonoGame) | C# | Other | [v3.8.6](https://github.com/MonoGame/MonoGame/releases/tag/v3.8.6) signed | 14503 | Unity (partial) |
-| [Ebitengine](https://github.com/hajimehoshi/ebiten) | Go | Apache-2.0 | [v2.10.5](https://github.com/hajimehoshi/ebiten/releases/tag/v2.10.5) | 13547 | none |
+| [Ebitengine](https://github.com/hajimehoshi/ebiten) | Go | Apache-2.0 | [v2.10.5](https://github.com/hajimehoshi/ebiten/releases/tag/v2.10.5) | 13546 | none |
 | [Tiled](https://github.com/mapeditor/tiled) | C++ | Other | [v1.12.2](https://github.com/mapeditor/tiled/releases/tag/v1.12.2) signed | 12956 | LDtk (partial) |
 | [Cocos Creator](https://github.com/cocos/cocos-engine) | C++ | Other | [3.8.8](https://github.com/cocos/cocos-engine/releases/tag/3.8.8) signed | 9854 | Unity (partial), Construct (partial) |
 | [Open 3D Engine](https://github.com/o3de/o3de) | C++ | Other | [2605.0](https://github.com/o3de/o3de/releases/tag/2605.0) signed | 9739 | Unreal Engine (partial) |

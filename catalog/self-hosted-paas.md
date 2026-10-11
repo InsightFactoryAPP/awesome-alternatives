@@ -4,7 +4,7 @@ Deploy apps and databases to your own servers from a git push or a dashboard.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Coolify](https://github.com/coollabsio/coolify) | PHP | Apache-2.0 | [v4.4.6](https://github.com/coollabsio/coolify/releases/tag/v4.4.6) | 62844 | Heroku (full), Render (full), Railway (full), Vercel (partial), Netlify (partial) |
+| [Coolify](https://github.com/coollabsio/coolify) | PHP | Apache-2.0 | [v4.4.6](https://github.com/coollabsio/coolify/releases/tag/v4.4.6) | 62845 | Heroku (full), Render (full), Railway (full), Vercel (partial), Netlify (partial) |
 | [Dokploy](https://github.com/Dokploy/dokploy) | TypeScript | Other | [v0.30.8](https://github.com/Dokploy/dokploy/releases/tag/v0.30.8) | 37746 | Heroku (full), Render (full), Railway (full), Vercel (partial), Netlify (partial) |
 | [Dokku](https://github.com/dokku/dokku) | Go | MIT | [v0.38.31](https://github.com/dokku/dokku/releases/tag/v0.38.31) | 32177 | Heroku (full) |
 | [Sealos](https://github.com/labring/sealos) | TypeScript | Other | [v5.1.1](https://github.com/labring/sealos/releases/tag/v5.1.1) signed | 18364 | Heroku (partial) |

@@ -10,6 +10,6 @@ Show and control which apps on a computer or phone may connect to the network.
 | [simplewall](https://github.com/henrypp/simplewall) | C | GPL-3.0 | [v.3.8.7](https://github.com/henrypp/simplewall/releases/tag/v.3.8.7) signed | 9127 | GlassWire (partial) |
 | [Rethink DNS + Firewall](https://github.com/celzero/rethink-app) | Kotlin | Apache-2.0 | [v0.5.7](https://github.com/celzero/rethink-app/releases/tag/v0.5.7) signed | 5563 | GlassWire (partial) |
 | [Blokada](https://github.com/blokadaorg/blokada) | Dart | MPL-2.0 | [android.v5.23.2.1](https://github.com/blokadaorg/blokada/releases/tag/android.v5.23.2.1) | 3268 | NextDNS (partial) |
-| [TrackerControl](https://github.com/TrackerControl/tracker-control-android) | Java | GPL-3.0 | [2026080501](https://github.com/TrackerControl/tracker-control-android/releases/tag/2026080501) | 2677 | Little Snitch (partial), NextDNS (partial) |
+| [TrackerControl](https://github.com/TrackerControl/tracker-control-android) | Java | GPL-3.0 | [2026080501](https://github.com/TrackerControl/tracker-control-android/releases/tag/2026080501) | 2678 | Little Snitch (partial), NextDNS (partial) |
 
 [All categories](../README.md#catalog)

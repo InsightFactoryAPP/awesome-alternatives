@@ -18,7 +18,7 @@ Linters, static checkers and formatters for Go, the JVM, PHP, Ruby, Swift, Lua, 
 | [detekt](https://github.com/detekt/detekt) | Kotlin | Apache-2.0 | [v1.23.8](https://github.com/detekt/detekt/releases/tag/v1.23.8) signed | 7087 | SonarQube Community Build (partial) |
 | [Staticcheck](https://github.com/dominikh/go-tools) | Go | MIT | [2026.2.1](https://github.com/dominikh/go-tools/releases/tag/2026.2.1) signed | 6906 | golangci-lint (partial) |
 | [ktlint](https://github.com/ktlint/ktlint) | Kotlin | MIT | [1.8.0](https://github.com/ktlint/ktlint/releases/tag/1.8.0) signed | 6756 | none |
-| [markdownlint](https://github.com/DavidAnson/markdownlint) | JavaScript | MIT | [v0.41.1](https://github.com/DavidAnson/markdownlint/releases/tag/v0.41.1) | 6376 | none |
+| [markdownlint](https://github.com/DavidAnson/markdownlint) | JavaScript | MIT | [v0.41.1](https://github.com/DavidAnson/markdownlint/releases/tag/v0.41.1) | 6377 | none |
 | [google-java-format](https://github.com/google/google-java-format) | Java | Other | [v1.37.0](https://github.com/google/google-java-format/releases/tag/v1.37.0) | 6205 | none |
 | [Psalm](https://github.com/vimeo/psalm) | PHP | MIT | [6.20.0](https://github.com/vimeo/psalm/releases/tag/6.20.0) signed | 5894 | PHPStan (full) |
 | [revive](https://github.com/revive-lint/revive) | Go | MIT | [v1.17.1](https://github.com/revive-lint/revive/releases/tag/v1.17.1) signed | 5550 | golangci-lint (partial) |

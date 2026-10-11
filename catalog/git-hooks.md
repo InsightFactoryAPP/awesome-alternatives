@@ -6,7 +6,7 @@ Install and run the checks a repository wants before a commit or a push, and che
 |---|---|---|---|---:|---|
 | [husky](https://github.com/typicode/husky) | JavaScript | MIT | [v9.1.7](https://github.com/typicode/husky/releases/tag/v9.1.7) | 35347 | pre-commit (partial) |
 | [commitlint](https://github.com/conventional-changelog/commitlint) | TypeScript | MIT | [v21.2.3](https://github.com/conventional-changelog/commitlint/releases/tag/v21.2.3) | 18763 | none |
-| [pre-commit](https://github.com/pre-commit/pre-commit) | Python | MIT | [v4.6.2](https://github.com/pre-commit/pre-commit/releases/tag/v4.6.2) | 15619 | husky (partial) |
+| [pre-commit](https://github.com/pre-commit/pre-commit) | Python | MIT | [v4.6.2](https://github.com/pre-commit/pre-commit/releases/tag/v4.6.2) | 15620 | husky (partial) |
 | [lefthook](https://github.com/evilmartians/lefthook) | Go | MIT | [v2.2.1](https://github.com/evilmartians/lefthook/releases/tag/v2.2.1) signed | 8893 | husky (full), pre-commit (full) |
 | [prek](https://github.com/j178/prek) | Rust | MIT | [v0.5.5](https://github.com/j178/prek/releases/tag/v0.5.5) signed | 8599 | pre-commit (drop-in) |
 | [Overcommit](https://github.com/sds/overcommit) | Ruby | MIT | [v0.73.0](https://github.com/sds/overcommit/releases/tag/v0.73.0) signed | 4005 | pre-commit (partial) |

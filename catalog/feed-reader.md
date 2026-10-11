@@ -4,7 +4,7 @@ Follow sites through RSS and Atom feeds, and produce feeds for sites and account
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [RSSHub](https://github.com/DIYgod/RSSHub) | TypeScript | AGPL-3.0 | [v2026.10.11-8411.a7d4000](https://github.com/DIYgod/RSSHub/releases/tag/v2026.10.11-8411.a7d4000) signed | 46491 | RSS.app (full) |
+| [RSSHub](https://github.com/DIYgod/RSSHub) | TypeScript | AGPL-3.0 | [v2026.10.11-8411.a7d4000](https://github.com/DIYgod/RSSHub/releases/tag/v2026.10.11-8411.a7d4000) signed | 46493 | RSS.app (full) |
 | [Folo](https://github.com/RSSNext/Folo) | TypeScript | AGPL-3.0 | [desktop/v1.15.0](https://github.com/RSSNext/Folo/releases/tag/desktop/v1.15.0) signed | 39086 | Feedly (full), Inoreader (full) |
 | [FreshRSS](https://github.com/FreshRSS/FreshRSS) | PHP | AGPL-3.0 | [1.30.1](https://github.com/FreshRSS/FreshRSS/releases/tag/1.30.1) signed | 16266 | Feedly (full), Inoreader (full) |
 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | Swift | MIT | [mac-7.1.5](https://github.com/Ranchero-Software/NetNewsWire/releases/tag/mac-7.1.5) | 10459 | Feedly (partial) |
@@ -12,7 +12,7 @@ Follow sites through RSS and Atom feeds, and produce feeds for sites and account
 | [Fluent Reader](https://github.com/yang991178/fluent-reader) | TypeScript | BSD-3-Clause | [v1.2.2](https://github.com/yang991178/fluent-reader/releases/tag/v1.2.2) | 9706 | Feedly (partial) |
 | [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) | PHP | Unlicense | [2025-08-05](https://github.com/RSS-Bridge/rss-bridge/releases/tag/2025-08-05) signed | 9280 | RSS.app (partial) |
 | [NewsBlur](https://github.com/samuelclay/NewsBlur) | HTML | MIT | [v0.2.2](https://github.com/samuelclay/NewsBlur/releases/tag/v0.2.2) | 7651 | Feedly (full) |
-| [Read You](https://github.com/ReadYouApp/ReadYou) | Kotlin | GPL-3.0 | [0.16.2](https://github.com/ReadYouApp/ReadYou/releases/tag/0.16.2) signed | 7586 | Feedly (partial) |
+| [Read You](https://github.com/ReadYouApp/ReadYou) | Kotlin | GPL-3.0 | [0.16.2](https://github.com/ReadYouApp/ReadYou/releases/tag/0.16.2) signed | 7587 | Feedly (partial) |
 | [Stringer](https://github.com/stringer-rss/stringer) | Ruby | MIT | none | 4130 | Feedly (partial) |
 | [yarr](https://github.com/nkanaev/yarr) | Go | MIT | [v2.9](https://github.com/nkanaev/yarr/releases/tag/v2.9) | 4072 | Feedly (partial) |
 | [Newsboat](https://github.com/newsboat/newsboat) | C++ | MIT | [r2.45](https://github.com/newsboat/newsboat/releases/tag/r2.45) | 3924 | Feedly (partial) |

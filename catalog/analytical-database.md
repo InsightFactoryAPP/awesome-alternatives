@@ -4,7 +4,7 @@ Columnar SQL engines for analytics over large datasets.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | C++ | Apache-2.0 | [v26.9.15.5-stable](https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.15.5-stable) | 50338 | Snowflake (full), BigQuery (full), Amazon Redshift (full) |
+| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | C++ | Apache-2.0 | [v26.9.15.5-stable](https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.15.5-stable) | 50337 | Snowflake (full), BigQuery (full), Amazon Redshift (full) |
 | [DuckDB](https://github.com/duckdb/duckdb) | C++ | MIT | [v1.5.6](https://github.com/duckdb/duckdb/releases/tag/v1.5.6) signed | 42093 | Snowflake (partial), BigQuery (partial), Amazon Athena (partial) |
 | [Presto](https://github.com/prestodb/presto) | Java | Apache-2.0 | [0.299](https://github.com/prestodb/presto/releases/tag/0.299) | 16754 | Amazon Athena (full) |
 | [Apache Doris](https://github.com/apache/doris) | Java | Apache-2.0 | [4.1.4.1](https://github.com/apache/doris/releases/tag/4.1.4.1) | 16068 | Snowflake (full) |

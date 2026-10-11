@@ -4,9 +4,9 @@ Editors for writing code.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Visual Studio Code](https://github.com/microsoft/vscode) | TypeScript | MIT | [1.141.0](https://github.com/microsoft/vscode/releases/tag/1.141.0) signed | 193558 | Atom (full), IntelliJ IDEA (partial) |
-| [Neovim](https://github.com/neovim/neovim) | Vim Script | Other | [v0.12.6](https://github.com/neovim/neovim/releases/tag/v0.12.6) signed | 103005 | Vim (drop-in) |
-| [Zed](https://github.com/zed-industries/zed) | Rust | Other | [v1.23.2](https://github.com/zed-industries/zed/releases/tag/v1.23.2) signed | 91567 | Visual Studio Code (full), Cursor (partial), Sublime Text (full), Atom (full) |
+| [Visual Studio Code](https://github.com/microsoft/vscode) | TypeScript | MIT | [1.141.0](https://github.com/microsoft/vscode/releases/tag/1.141.0) signed | 193560 | Atom (full), IntelliJ IDEA (partial) |
+| [Neovim](https://github.com/neovim/neovim) | Vim Script | Other | [v0.12.6](https://github.com/neovim/neovim/releases/tag/v0.12.6) signed | 103007 | Vim (drop-in) |
+| [Zed](https://github.com/zed-industries/zed) | Rust | Other | [v1.23.2](https://github.com/zed-industries/zed/releases/tag/v1.23.2) signed | 91566 | Visual Studio Code (full), Cursor (partial), Sublime Text (full), Atom (full) |
 | [Atom](https://github.com/atom/atom) archived | JavaScript | MIT | [v1.60.0](https://github.com/atom/atom/releases/tag/v1.60.0) | 60709 | none |
 | [Helix](https://github.com/helix-editor/helix) | Rust | MPL-2.0 | [25.07.1](https://github.com/helix-editor/helix/releases/tag/25.07.1) signed | 46544 | Vim (partial), Neovim (partial) |
 | [Vim](https://github.com/vim/vim) | Vim Script | Vim | [v9.2.1172](https://github.com/vim/vim/releases/tag/v9.2.1172) signed | 41191 | none |
@@ -24,7 +24,7 @@ Editors for writing code.
 | [AstroNvim](https://github.com/AstroNvim/AstroNvim) | Lua | GPL-3.0 | [v6.1.0](https://github.com/AstroNvim/AstroNvim/releases/tag/v6.1.0) | 14458 | Visual Studio Code (partial) |
 | [Kakoune](https://github.com/mawww/kakoune) | C++ | Unlicense | [v2026.05.21](https://github.com/mawww/kakoune/releases/tag/v2026.05.21) | 11097 | Vim (partial) |
 | [Spyder](https://github.com/spyder-ide/spyder) | Python | MIT | [v6.1.7](https://github.com/spyder-ide/spyder/releases/tag/v6.1.7) | 9358 | MATLAB (partial) |
-| [CotEditor](https://github.com/coteditor/CotEditor) | Swift | Other | [7.1.1](https://github.com/coteditor/CotEditor/releases/tag/7.1.1) | 8573 | BBEdit (partial) |
+| [CotEditor](https://github.com/coteditor/CotEditor) | Swift | Other | [7.1.1](https://github.com/coteditor/CotEditor/releases/tag/7.1.1) | 8574 | BBEdit (partial) |
 | [GNU Emacs](https://github.com/emacs-mirror/emacs) | Emacs Lisp | GPL-3.0 | [emacs-31.1](https://github.com/emacs-mirror/emacs/releases/tag/emacs-31.1) signed | 5216 | none |
 | [RStudio](https://github.com/rstudio/rstudio) | Java | Other | [v2026.09.0+174](https://github.com/rstudio/rstudio/releases/tag/v2026.09.0%2B174) signed | 5084 | none |
 | [Pulsar](https://github.com/pulsar-edit/pulsar) | JavaScript | Other | [v1.132.1](https://github.com/pulsar-edit/pulsar/releases/tag/v1.132.1) | 4173 | Atom (drop-in), Sublime Text (full) |

@@ -11,7 +11,7 @@ Desktop, mobile and web apps for Matrix, XMPP and IRC.
 | [Cinny](https://github.com/cinnyapp/cinny) | TypeScript | AGPL-3.0 | [v4.12.7](https://github.com/cinnyapp/cinny/releases/tag/v4.12.7) signed | 3932 | Slack (partial), Discord (partial) |
 | [WeeChat](https://github.com/weechat/weechat) | C | GPL-3.0 | [v4.10.1](https://github.com/weechat/weechat/releases/tag/v4.10.1) | 3400 | Irssi (full) |
 | [Converse.js](https://github.com/conversejs/converse.js) | JavaScript | MPL-2.0 | [v14.0.0](https://github.com/conversejs/converse.js/releases/tag/v14.0.0) signed | 3299 | none |
-| [FluffyChat](https://github.com/krille-chan/fluffychat) | Dart | AGPL-3.0 | [v2.10.0](https://github.com/krille-chan/fluffychat/releases/tag/v2.10.0) signed | 3203 | WhatsApp (partial) |
+| [FluffyChat](https://github.com/krille-chan/fluffychat) | Dart | AGPL-3.0 | [v2.10.0](https://github.com/krille-chan/fluffychat/releases/tag/v2.10.0) signed | 3204 | WhatsApp (partial) |
 | [Irssi](https://github.com/irssi/irssi) | C | Other | [1.4.5](https://github.com/irssi/irssi/releases/tag/1.4.5) | 3152 | none |
 | [Nheko](https://github.com/Nheko-Reborn/nheko) | C++ | GPL-3.0 | [v0.12.1](https://github.com/Nheko-Reborn/nheko/releases/tag/v0.12.1) signed | 2507 | Slack (partial) |
 | [Dino](https://github.com/dino/dino) | Vala | GPL-3.0 | [v0.5.1](https://github.com/dino/dino/releases/tag/v0.5.1) | 2497 | WhatsApp (partial) |

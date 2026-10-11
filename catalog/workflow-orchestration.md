@@ -4,12 +4,12 @@ Schedule and run data pipelines and jobs as dependency graphs.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Apache Airflow](https://github.com/apache/airflow) | Python | Apache-2.0 | [3.3.2](https://github.com/apache/airflow/releases/tag/3.3.2) | 47142 | Control-M (partial), Azure Data Factory (partial) |
+| [Apache Airflow](https://github.com/apache/airflow) | Python | Apache-2.0 | [3.3.2](https://github.com/apache/airflow/releases/tag/3.3.2) | 47143 | Control-M (partial), Azure Data Factory (partial) |
 | [Conductor](https://github.com/conductor-oss/conductor) | Java | Apache-2.0 | [v3.32.5](https://github.com/conductor-oss/conductor/releases/tag/v3.32.5) | 32277 | AWS Step Functions (partial), Temporal (partial) |
 | [XXL-JOB](https://github.com/xuxueli/xxl-job) | Java | GPL-3.0 | [3.5.0](https://github.com/xuxueli/xxl-job/releases/tag/3.5.0) | 30608 | Quartz (partial) |
-| [Kestra](https://github.com/kestra-io/kestra) | Java | Apache-2.0 | [v2.0.5](https://github.com/kestra-io/kestra/releases/tag/v2.0.5) | 29491 | Apache Airflow (full) |
+| [Kestra](https://github.com/kestra-io/kestra) | Java | Apache-2.0 | [v2.0.5](https://github.com/kestra-io/kestra/releases/tag/v2.0.5) | 29492 | Apache Airflow (full) |
 | [Prefect](https://github.com/PrefectHQ/prefect) | Python | Apache-2.0 | [3.8.8](https://github.com/PrefectHQ/prefect/releases/tag/3.8.8) signed | 24001 | Apache Airflow (full) |
-| [Temporal](https://github.com/temporalio/temporal) | Go | MIT | [v1.32.1](https://github.com/temporalio/temporal/releases/tag/v1.32.1) signed | 23596 | AWS Step Functions (partial) |
+| [Temporal](https://github.com/temporalio/temporal) | Go | MIT | [v1.32.1](https://github.com/temporalio/temporal/releases/tag/v1.32.1) signed | 23597 | AWS Step Functions (partial) |
 | [Luigi](https://github.com/spotify/luigi) | Python | Apache-2.0 | [v3.8.1](https://github.com/spotify/luigi/releases/tag/v3.8.1) | 18783 | Apache Airflow (partial) |
 | [Argo Workflows](https://github.com/argoproj/argo-workflows) | Go | Apache-2.0 | [v4.1.5](https://github.com/argoproj/argo-workflows/releases/tag/v4.1.5) signed | 17032 | Apache Airflow (full) |
 | [Dagster](https://github.com/dagster-io/dagster) | Python | Apache-2.0 | [1.13.26](https://github.com/dagster-io/dagster/releases/tag/1.13.26) | 16262 | Apache Airflow (full) |

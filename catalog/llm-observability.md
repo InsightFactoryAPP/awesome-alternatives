@@ -4,7 +4,7 @@ Trace, evaluate and monitor LLM applications.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Langfuse](https://github.com/langfuse/langfuse) | TypeScript | Other | [v4.56.0](https://github.com/langfuse/langfuse/releases/tag/v4.56.0) | 35636 | LangSmith (full), W&B Weave (full), Braintrust (partial) |
+| [Langfuse](https://github.com/langfuse/langfuse) | TypeScript | Other | [v4.56.0](https://github.com/langfuse/langfuse/releases/tag/v4.56.0) | 35638 | LangSmith (full), W&B Weave (full), Braintrust (partial) |
 | [Opik](https://github.com/comet-ml/opik) | Python | Apache-2.0 | [2.2.96](https://github.com/comet-ml/opik/releases/tag/2.2.96) signed | 22499 | LangSmith (full), W&B Weave (full), Braintrust (full) |
 | [Arize Phoenix](https://github.com/Arize-ai/phoenix) | Python | Other | [@arizeai/phoenix-mcp@4.3.16](https://github.com/Arize-ai/phoenix/releases/tag/%40arizeai/phoenix-mcp%404.3.16) signed | 11784 | LangSmith (full), W&B Weave (full) |
 | [Evidently](https://github.com/evidentlyai/evidently) | Jupyter Notebook | Apache-2.0 | [v0.7.23](https://github.com/evidentlyai/evidently/releases/tag/v0.7.23) | 7982 | LangSmith (partial) |
