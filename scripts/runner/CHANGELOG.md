@@ -4,6 +4,12 @@ All notable changes to `refresh` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.15.0] - 2026-10-11
+
+### Features
+
+- feat(catalog): gather categories under groups with a display per group (#432)
+
 ## [0.14.0] - 2026-10-10
 
 ### Features

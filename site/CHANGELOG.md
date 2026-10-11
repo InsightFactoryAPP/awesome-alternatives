@@ -4,6 +4,12 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.135.0] - 2026-10-11
+
+### Features
+
+- feat(catalog): gather categories under groups with a display per group (#432)
+
 ## [0.134.3] - 2026-10-11
 
 ### Bug Fixes
