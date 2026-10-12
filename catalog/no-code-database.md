@@ -4,8 +4,8 @@ Spreadsheet-like databases with views, forms and an API, built without code.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [NocoDB](https://github.com/nocodb/nocodb) | TypeScript | Other | [2026.09.1](https://github.com/nocodb/nocodb/releases/tag/2026.09.1) signed | 65245 | Airtable (full) |
-| [Teable](https://github.com/teableio/teable) | TypeScript | Other | [release.2026-10-10T06-11-53Z.3314](https://github.com/teableio/teable/releases/tag/release.2026-10-10T06-11-53Z.3314) signed | 21880 | Airtable (full) |
-| [Grist](https://github.com/gristlabs/grist-core) | TypeScript | Apache-2.0 | [v1.7.21](https://github.com/gristlabs/grist-core/releases/tag/v1.7.21) signed | 11933 | Airtable (full) |
+| [NocoDB](https://github.com/nocodb/nocodb) | TypeScript | Other | [2026.09.1](https://github.com/nocodb/nocodb/releases/tag/2026.09.1) signed | 65249 | Airtable (full) |
+| [Teable](https://github.com/teableio/teable) | TypeScript | Other | [release.2026-10-10T06-11-53Z.3314](https://github.com/teableio/teable/releases/tag/release.2026-10-10T06-11-53Z.3314) signed | 21884 | Airtable (full) |
+| [Grist](https://github.com/gristlabs/grist-core) | TypeScript | Apache-2.0 | [v1.7.21](https://github.com/gristlabs/grist-core/releases/tag/v1.7.21) signed | 11938 | Airtable (full) |
 
 [All categories](../README.md#catalog)
