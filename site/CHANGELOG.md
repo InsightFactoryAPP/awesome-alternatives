@@ -4,6 +4,12 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.136.3] - 2026-10-12
+
+### Bug Fixes
+
+- chore(catalog): refresh from GitHub
+
 ## [0.136.2] - 2026-10-11
 
 ### Bug Fixes
