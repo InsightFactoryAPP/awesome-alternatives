@@ -4,8 +4,8 @@ Run continuous queries, joins and aggregations over event streams.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Apache Flink](https://github.com/apache/flink) | Java | Apache-2.0 | [release-2.3.0](https://github.com/apache/flink/releases/tag/release-2.3.0) | 26403 | Amazon Managed Service for Apache Flink (full), Google Cloud Dataflow (partial) |
-| [RisingWave](https://github.com/risingwavelabs/risingwave) | Rust | Apache-2.0 | [v3.1.0](https://github.com/risingwavelabs/risingwave/releases/tag/v3.1.0) signed | 9366 | ksqlDB (partial), Amazon Managed Service for Apache Flink (partial) |
+| [Apache Flink](https://github.com/apache/flink) | Java | Apache-2.0 | [release-2.3.0](https://github.com/apache/flink/releases/tag/release-2.3.0) | 26405 | Amazon Managed Service for Apache Flink (full), Google Cloud Dataflow (partial) |
+| [RisingWave](https://github.com/risingwavelabs/risingwave) | Rust | Apache-2.0 | [v3.1.0](https://github.com/risingwavelabs/risingwave/releases/tag/v3.1.0) signed | 9367 | ksqlDB (partial), Amazon Managed Service for Apache Flink (partial) |
 | [Apache Storm](https://github.com/apache/storm) | Java | Apache-2.0 | [v3.1.0](https://github.com/apache/storm/releases/tag/v3.1.0) | 6695 | Google Cloud Dataflow (partial) |
 | [Hazelcast](https://github.com/hazelcast/hazelcast) | Java | Other | [v5.7.0](https://github.com/hazelcast/hazelcast/releases/tag/v5.7.0) | 6619 | Amazon Managed Service for Apache Flink (partial) |
 | [Materialize](https://github.com/MaterializeInc/materialize) | Rust | Other | [v26.45.1](https://github.com/MaterializeInc/materialize/releases/tag/v26.45.1) | 6380 | ksqlDB (partial) |

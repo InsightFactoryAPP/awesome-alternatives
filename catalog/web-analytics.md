@@ -8,7 +8,7 @@ Self-hostable, privacy-friendly site analytics.
 | [Umami](https://github.com/umami-software/umami) | TypeScript | MIT | [v3.4.0](https://github.com/umami-software/umami/releases/tag/v3.4.0) signed | 39341 | Matomo (full), Google Analytics (partial) |
 | [Plausible Analytics](https://github.com/plausible/analytics) | Elixir | AGPL-3.0 | [v3.2.1](https://github.com/plausible/analytics/releases/tag/v3.2.1) | 29382 | Matomo (full), Google Analytics (partial) |
 | [Matomo](https://github.com/matomo-org/matomo) | PHP | GPL-3.0 | [5.14.1](https://github.com/matomo-org/matomo/releases/tag/5.14.1) | 21950 | Google Analytics (full) |
-| [GoAccess](https://github.com/allinurl/goaccess) | C | MIT | [v1.12](https://github.com/allinurl/goaccess/releases/tag/v1.12) | 21042 | Google Analytics (partial) |
+| [GoAccess](https://github.com/allinurl/goaccess) | C | MIT | [v1.12](https://github.com/allinurl/goaccess/releases/tag/v1.12) | 21041 | Google Analytics (partial) |
 | [Rybbit](https://github.com/rybbit-io/rybbit) | TypeScript | AGPL-3.0 | [v2.9.0](https://github.com/rybbit-io/rybbit/releases/tag/v2.9.0) | 13115 | Google Analytics (full) |
 | [OpenReplay](https://github.com/openreplay/openreplay) | TypeScript | Other | [v1.28.0](https://github.com/openreplay/openreplay/releases/tag/v1.28.0) signed | 12978 | Hotjar (partial), Mixpanel (partial), Amplitude (partial) |
 | [OpenPanel](https://github.com/Openpanel-dev/openpanel) | TypeScript | AGPL-3.0 | [v2.3.0](https://github.com/Openpanel-dev/openpanel/releases/tag/v2.3.0) | 7131 | Mixpanel (full), Amplitude (full) |

@@ -4,7 +4,7 @@ Stream a personal library of films, series, music and podcasts to your devices.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | C# | GPL-2.0 | [v12.2](https://github.com/jellyfin/jellyfin/releases/tag/v12.2) | 58041 | Plex (full), Emby (full), Netflix (partial) |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | C# | GPL-2.0 | [v12.2](https://github.com/jellyfin/jellyfin/releases/tag/v12.2) | 58042 | Plex (full), Emby (full), Netflix (partial) |
 | [Navidrome](https://github.com/navidrome/navidrome) | Go | GPL-3.0 | [v0.64.2](https://github.com/navidrome/navidrome/releases/tag/v0.64.2) signed | 24135 | Plex (partial), Spotify (partial) |
 | [Koel](https://github.com/koel/koel) | PHP | MIT | [v9.15.0](https://github.com/koel/koel/releases/tag/v9.15.0) | 17279 | Plex (partial), Spotify (partial) |
 | [Audiobookshelf](https://github.com/advplyr/audiobookshelf) | JavaScript | GPL-3.0 | [v2.37.1](https://github.com/advplyr/audiobookshelf/releases/tag/v2.37.1) | 14628 | Audible (partial) |
@@ -21,7 +21,7 @@ Stream a personal library of films, series, music and podcasts to your devices.
 | [OwnTone](https://github.com/owntone/owntone-server) | C | GPL-2.0 | [29.3](https://github.com/owntone/owntone-server/releases/tag/29.3) | 2569 | none |
 | [Kyoo](https://github.com/zoriya/Kyoo) | TypeScript | GPL-3.0 | [v5.2.1](https://github.com/zoriya/Kyoo/releases/tag/v5.2.1) signed | 2536 | Plex (full), Netflix (partial) |
 | [mStream](https://github.com/IrosTheBeggar/mStream) | JavaScript | GPL-3.0 | [v6.31.1](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.31.1) | 2410 | Spotify (partial) |
-| [Swing Music](https://github.com/swingmx/swingmusic) | Python | AGPL-3.0 | [v3.0.0](https://github.com/swingmx/swingmusic/releases/tag/v3.0.0) | 2083 | Spotify (partial) |
+| [Swing Music](https://github.com/swingmx/swingmusic) | Python | AGPL-3.0 | [v3.0.0](https://github.com/swingmx/swingmusic/releases/tag/v3.0.0) | 2082 | Spotify (partial) |
 | [Lyrion Music Server](https://github.com/LMS-Community/slimserver) | Perl | Other | [9.1.1](https://github.com/LMS-Community/slimserver/releases/tag/9.1.1) | 1788 | Spotify (partial) |
 | [LMS](https://github.com/epoupon/lms) | C++ | GPL-3.0 | [v3.81.0](https://github.com/epoupon/lms/releases/tag/v3.81.0) | 1688 | Spotify (partial) |
 | [Gerbera](https://github.com/gerbera/gerbera) | C++ | Other | [v3.3.0](https://github.com/gerbera/gerbera/releases/tag/v3.3.0) | 1396 | Plex (partial) |

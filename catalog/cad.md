@@ -5,7 +5,7 @@ Draft 2D drawings, model parametric 3D parts and lay out printed circuit boards 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [FreeCAD](https://github.com/FreeCAD/FreeCAD) | C++ | LGPL-2.1 | [1.1.4](https://github.com/FreeCAD/FreeCAD/releases/tag/1.1.4) | 34224 | SolidWorks (partial), Fusion (partial), AutoCAD (partial), Onshape (partial) |
-| [OpenSCAD](https://github.com/openscad/openscad) | C++ | Other | [openscad-2021.01](https://github.com/openscad/openscad/releases/tag/openscad-2021.01) signed | 10435 | Fusion (partial), SolidWorks (partial) |
+| [OpenSCAD](https://github.com/openscad/openscad) | C++ | Other | [openscad-2021.01](https://github.com/openscad/openscad/releases/tag/openscad-2021.01) signed | 10436 | Fusion (partial), SolidWorks (partial) |
 | [LibreCAD](https://github.com/LibreCAD/LibreCAD) | C++ | Other | [v2.2.1.5](https://github.com/LibreCAD/LibreCAD/releases/tag/v2.2.1.5) | 6475 | AutoCAD (partial) |
 | [CadQuery](https://github.com/CadQuery/cadquery) | Python | Other | [v2.8.0](https://github.com/CadQuery/cadquery/releases/tag/v2.8.0) signed | 5924 | Fusion (partial) |
 | [Chili3D](https://github.com/xiangechen/chili3d) | TypeScript | AGPL-3.0 | [0.7.1](https://github.com/xiangechen/chili3d/releases/tag/0.7.1) | 4906 | Onshape (partial), Fusion (partial), SolidWorks (partial) |

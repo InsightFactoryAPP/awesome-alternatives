@@ -4,7 +4,7 @@ Typed database access and migrations for TypeScript.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Prisma ORM](https://github.com/prisma/orm) | TypeScript | Apache-2.0 | [v0.17.0](https://github.com/prisma/orm/releases/tag/v0.17.0) signed | 47695 | TypeORM (full), Sequelize (full) |
+| [Prisma ORM](https://github.com/prisma/orm) | TypeScript | Apache-2.0 | [v0.17.0](https://github.com/prisma/orm/releases/tag/v0.17.0) signed | 47694 | TypeORM (full), Sequelize (full) |
 | [TypeORM](https://github.com/typeorm/typeorm) | TypeScript | MIT | [1.1.2](https://github.com/typeorm/typeorm/releases/tag/1.1.2) signed | 36658 | none |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | TypeScript | Apache-2.0 | [0.45.4](https://github.com/drizzle-team/drizzle-orm/releases/tag/0.45.4) signed | 36017 | Prisma ORM (full), TypeORM (full), Sequelize (full) |
 | [Sequelize](https://github.com/sequelize/sequelize) | TypeScript | MIT | [v6.37.8](https://github.com/sequelize/sequelize/releases/tag/v6.37.8) | 30347 | none |

@@ -4,14 +4,14 @@ Ask questions about your own documents and sources through retrieval-augmented g
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [RAGFlow](https://github.com/infiniflow/ragflow) | Go | Apache-2.0 | [v1.0.0-rc1](https://github.com/infiniflow/ragflow/releases/tag/v1.0.0-rc1) signed | 92097 | NotebookLM (partial) |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | Go | Apache-2.0 | [v1.0.0-rc1](https://github.com/infiniflow/ragflow/releases/tag/v1.0.0-rc1) signed | 92103 | NotebookLM (partial) |
 | [PrivateGPT](https://github.com/zylon-ai/private-gpt) | Python | Apache-2.0 | [v1.0.1](https://github.com/zylon-ai/private-gpt/releases/tag/v1.0.1) signed | 57573 | NotebookLM (partial) |
 | [Open Notebook](https://github.com/lfnovo/open-notebook) | TypeScript | MIT | [v1.15.0](https://github.com/lfnovo/open-notebook/releases/tag/v1.15.0) signed | 40119 | NotebookLM (full) |
 | [LightRAG](https://github.com/HKUDS/LightRAG) | Python | MIT | [v1.5.7](https://github.com/HKUDS/LightRAG/releases/tag/v1.5.7) | 40098 | NotebookLM (partial) |
-| [Onyx](https://github.com/onyx-dot-app/onyx) | Python | Other | [v4.9.0](https://github.com/onyx-dot-app/onyx/releases/tag/v4.9.0) signed | 32430 | Glean (full) |
+| [Onyx](https://github.com/onyx-dot-app/onyx) | Python | Other | [v4.9.0](https://github.com/onyx-dot-app/onyx/releases/tag/v4.9.0) signed | 32432 | Glean (full) |
 | [kotaemon](https://github.com/Cinnamon/kotaemon) | Python | Apache-2.0 | [v0.12.0](https://github.com/Cinnamon/kotaemon/releases/tag/v0.12.0) | 25800 | NotebookLM (partial) |
 | [DocsGPT](https://github.com/arc53/DocsGPT) | Python | MIT | [1.0.0](https://github.com/arc53/DocsGPT/releases/tag/1.0.0) signed | 18319 | Glean (partial) |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | Python | Other | [v2.2.0](https://github.com/MODSetter/SurfSense/releases/tag/v2.2.0) signed | 16400 | NotebookLM (full), Glean (partial) |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | Python | Other | [v2.2.0](https://github.com/MODSetter/SurfSense/releases/tag/v2.2.0) signed | 16404 | NotebookLM (full), Glean (partial) |
 | [Morphik](https://github.com/morphik-org/morphik-core) | Python | Other | none | 3718 | none |
 
 [All categories](../README.md#catalog)

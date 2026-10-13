@@ -4,7 +4,7 @@ Host email for your own domains, archive and search every message for retention,
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Shell | MIT | [v16.0.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v16.0.1) signed | 19512 | Google Workspace (partial) |
+| [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Shell | MIT | [v16.0.1](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v16.0.1) signed | 19515 | Google Workspace (partial) |
 | [Postal](https://github.com/postalserver/postal) | Ruby | MIT | [3.3.7](https://github.com/postalserver/postal/releases/tag/3.3.7) signed | 16858 | SendGrid (full) |
 | [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) | Python | CC0-1.0 | [v77](https://github.com/mail-in-a-box/mailinabox/releases/tag/v77) | 15438 | Google Workspace (partial) |
 | [Stalwart](https://github.com/stalwartlabs/stalwart) | Rust | none | [v0.16.26](https://github.com/stalwartlabs/stalwart/releases/tag/v0.16.26) | 15076 | Google Workspace (partial), Microsoft 365 (partial) |
@@ -22,7 +22,7 @@ Host email for your own domains, archive and search every message for retention,
 | [Dovecot](https://github.com/dovecot/core) | C | Other | [2.4.5](https://github.com/dovecot/core/releases/tag/2.4.5) | 1263 | Google Workspace (partial) |
 | [PostfixAdmin](https://github.com/postfixadmin/postfixadmin) | PHP | Other | [v4.0.5](https://github.com/postfixadmin/postfixadmin/releases/tag/v4.0.5) signed | 1262 | Google Workspace (partial) |
 | [Apache James](https://github.com/apache/james-project) | Java | Apache-2.0 | [james-project-3.9.1](https://github.com/apache/james-project/releases/tag/james-project-3.9.1) | 1048 | Google Workspace (partial) |
-| [chasquid](https://github.com/albertito/chasquid) | Go | Other | [v1.18.0](https://github.com/albertito/chasquid/releases/tag/v1.18.0) signed | 976 | Google Workspace (partial) |
+| [chasquid](https://github.com/albertito/chasquid) | Go | Other | [v1.18.0](https://github.com/albertito/chasquid/releases/tag/v1.18.0) signed | 977 | Google Workspace (partial) |
 | [Hyvor Relay](https://github.com/hyvor/relay) | PHP | AGPL-3.0 | [0.0.46](https://github.com/hyvor/relay/releases/tag/0.0.46) signed | 918 | SendGrid (partial) |
 | [Cyrus IMAP](https://github.com/cyrusimap/cyrus-imapd) | C | Other | [cyrus-imapd-3.12.4](https://github.com/cyrusimap/cyrus-imapd/releases/tag/cyrus-imapd-3.12.4) signed | 652 | Google Workspace (partial) |
 | [OpenSMTPD](https://github.com/OpenSMTPD/OpenSMTPD) | C | Other | [7.9.0p0](https://github.com/OpenSMTPD/OpenSMTPD/releases/tag/7.9.0p0) | 586 | Google Workspace (partial) |

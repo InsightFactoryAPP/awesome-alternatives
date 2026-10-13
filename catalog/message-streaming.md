@@ -4,7 +4,7 @@ Durable, partitioned logs for events and messages.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Apache Kafka](https://github.com/apache/kafka) | Java | Apache-2.0 | [4.3.1](https://github.com/apache/kafka/releases/tag/4.3.1) | 33948 | Confluent Cloud (full), Amazon SQS (partial) |
+| [Apache Kafka](https://github.com/apache/kafka) | Java | Apache-2.0 | [4.3.1](https://github.com/apache/kafka/releases/tag/4.3.1) | 33950 | Confluent Cloud (full), Amazon SQS (partial) |
 | [NSQ](https://github.com/nsqio/nsq) | Go | MIT | [v1.3.0](https://github.com/nsqio/nsq/releases/tag/v1.3.0) | 25771 | Amazon SQS (partial) |
 | [Apache RocketMQ](https://github.com/apache/rocketmq) | Java | Apache-2.0 | [rocketmq-all-5.5.1](https://github.com/apache/rocketmq/releases/tag/rocketmq-all-5.5.1) signed | 22636 | Apache Kafka (full) |
 | [NATS](https://github.com/nats-io/nats-server) | Go | Apache-2.0 | [v2.15.1](https://github.com/nats-io/nats-server/releases/tag/v2.15.1) signed | 20864 | Apache Kafka (partial), Amazon SQS (partial) |

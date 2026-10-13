@@ -19,6 +19,6 @@ Play and organise a local music library or stream it from your own server, and f
 | [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef) | C | Other | [1.10.3](https://github.com/DeaDBeeF-Player/deadbeef/releases/tag/1.10.3) | 1976 | foobar2000 (full), MusicBee (partial) |
 | [Quod Libet](https://github.com/quodlibet/quodlibet) | Python | GPL-2.0 | [release-4.7.1](https://github.com/quodlibet/quodlibet/releases/tag/release-4.7.1) | 1763 | MusicBee (partial) |
 | [Audacious](https://github.com/audacious-media-player/audacious) | C++ | Other | [audacious-4.6.1](https://github.com/audacious-media-player/audacious/releases/tag/audacious-4.6.1) | 1282 | foobar2000 (partial) |
-| [puddletag](https://github.com/puddletag/puddletag) | Python | Other | [2.5.0](https://github.com/puddletag/puddletag/releases/tag/2.5.0) | 645 | Mp3tag (full) |
+| [puddletag](https://github.com/puddletag/puddletag) | Python | Other | [2.5.0](https://github.com/puddletag/puddletag/releases/tag/2.5.0) | 644 | Mp3tag (full) |
 
 [All categories](../README.md#catalog)

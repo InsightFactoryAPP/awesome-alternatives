@@ -5,7 +5,7 @@ Inspect source code for bugs, code smells and security issues, and track the fin
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [Semgrep](https://github.com/semgrep/semgrep) | C | LGPL-2.1 | [v1.180.0](https://github.com/semgrep/semgrep/releases/tag/v1.180.0) | 17014 | SonarQube Cloud (partial) |
-| [SonarQube Community Build](https://github.com/SonarSource/sonarqube) | Java | LGPL-3.0 | [26.10.0.133078](https://github.com/SonarSource/sonarqube/releases/tag/26.10.0.133078) | 11065 | SonarQube Cloud (partial) |
+| [SonarQube Community Build](https://github.com/SonarSource/sonarqube) | Java | LGPL-3.0 | [26.10.0.133078](https://github.com/SonarSource/sonarqube/releases/tag/26.10.0.133078) | 11064 | SonarQube Cloud (partial) |
 | [gosec](https://github.com/securego/gosec) | Go | Apache-2.0 | [v2.29.0](https://github.com/securego/gosec/releases/tag/v2.29.0) | 8966 | Snyk (partial), SonarQube Cloud (partial) |
 | [Bandit](https://github.com/PyCQA/bandit) | Python | Apache-2.0 | [1.9.4](https://github.com/PyCQA/bandit/releases/tag/1.9.4) signed | 8307 | Snyk (partial), SonarQube Cloud (partial) |
 | [Brakeman](https://github.com/presidentbeef/brakeman) | Ruby | Other | [v8.1.0](https://github.com/presidentbeef/brakeman/releases/tag/v8.1.0) signed | 7281 | Snyk (partial) |

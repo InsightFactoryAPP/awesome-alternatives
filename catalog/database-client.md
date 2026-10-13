@@ -5,7 +5,7 @@ Desktop and web clients to browse, edit and query databases.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [DBeaver](https://github.com/dbeaver/dbeaver) | Java | Apache-2.0 | [26.2.2](https://github.com/dbeaver/dbeaver/releases/tag/26.2.2) | 52036 | TablePlus (full), DataGrip (full), Navicat (full) |
-| [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) | JavaScript | MIT | [v1.7.4](https://github.com/qishibo/AnotherRedisDesktopManager/releases/tag/v1.7.4) | 34796 | Redis Insight (full) |
+| [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) | JavaScript | MIT | [v1.7.4](https://github.com/qishibo/AnotherRedisDesktopManager/releases/tag/v1.7.4) | 34795 | Redis Insight (full) |
 | [Chat2DB](https://github.com/OtterMind/Chat2DB) | Java | Other | [v5.3.8](https://github.com/OtterMind/Chat2DB/releases/tag/v5.3.8) | 28313 | Navicat (partial) |
 | [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) | C++ | Other | [v3.13.1](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.13.1) signed | 24694 | Navicat (partial) |
 | [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) | TypeScript | Other | [v6.1.6](https://github.com/beekeeper-studio/beekeeper-studio/releases/tag/v6.1.6) | 23727 | TablePlus (full), DataGrip (partial) |
@@ -18,7 +18,7 @@ Desktop and web clients to browse, edit and query databases.
 | [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) | PHP | GPL-2.0 | [RELEASE_5_2_3](https://github.com/phpmyadmin/phpmyadmin/releases/tag/RELEASE_5_2_3) signed | 7954 | Navicat (partial) |
 | [Adminer](https://github.com/vrana/adminer) | PHP | Other | [v6.1.2](https://github.com/vrana/adminer/releases/tag/v6.1.2) | 7918 | TablePlus (partial) |
 | [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) | Objective-C | Other | [production/6.0.2-20115](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/6.0.2-20115) signed | 7553 | TablePlus (partial) |
-| [DbGate](https://github.com/dbgate/dbgate) | JavaScript | GPL-3.0 | [v7.3.2](https://github.com/dbgate/dbgate/releases/tag/v7.3.2) | 7336 | TablePlus (full), DataGrip (partial), Navicat (partial), Studio 3T (partial) |
+| [DbGate](https://github.com/dbgate/dbgate) | JavaScript | GPL-3.0 | [v7.3.2](https://github.com/dbgate/dbgate/releases/tag/v7.3.2) | 7335 | TablePlus (full), DataGrip (partial), Navicat (partial), Studio 3T (partial) |
 | [Harlequin](https://github.com/tconbeer/harlequin) | Python | MIT | [v2.16.1](https://github.com/tconbeer/harlequin/releases/tag/v2.16.1) signed | 6457 | DataGrip (partial) |
 | [mongo-express](https://github.com/mongo-express/mongo-express) | JavaScript | MIT | [v1.1.0-rc-4](https://github.com/mongo-express/mongo-express/releases/tag/v1.1.0-rc-4) signed | 5985 | Studio 3T (partial) |
 | [rainfrog](https://github.com/achristmascarl/rainfrog) | Rust | MIT | [v0.4.6](https://github.com/achristmascarl/rainfrog/releases/tag/v0.4.6) signed | 5371 | DataGrip (partial), TablePlus (partial) |

@@ -7,9 +7,9 @@ Apps to read and post on Mastodon, Lemmy, Bluesky and Nostr.
 | [Bluesky](https://github.com/bluesky-social/social-app) | TypeScript | MIT | [1.134.0](https://github.com/bluesky-social/social-app/releases/tag/1.134.0) | 18337 | X (Twitter) (partial) |
 | [Ice Cubes](https://github.com/Dimillian/IceCubesApp) | Swift | AGPL-3.0 | [2.1.5](https://github.com/Dimillian/IceCubesApp/releases/tag/2.1.5) signed | 7083 | X (Twitter) (partial) |
 | [Elk](https://github.com/elk-zone/elk) | Vue | MIT | [v1.0.1](https://github.com/elk-zone/elk/releases/tag/v1.0.1) | 6032 | X (Twitter) (partial) |
-| [Mastodon for iOS](https://github.com/mastodon/mastodon-ios) | Swift | GPL-3.0 | [2026.07](https://github.com/mastodon/mastodon-ios/releases/tag/2026.07) | 2278 | X (Twitter) (partial) |
+| [Mastodon for iOS](https://github.com/mastodon/mastodon-ios) | Swift | GPL-3.0 | [2026.07](https://github.com/mastodon/mastodon-ios/releases/tag/2026.07) | 2279 | X (Twitter) (partial) |
 | [Damus](https://github.com/damus-io/damus) | Swift | GPL-3.0 | [v1.17](https://github.com/damus-io/damus/releases/tag/v1.17) | 2146 | X (Twitter) (partial) |
-| [Mastodon for Android](https://github.com/mastodon/mastodon-android) | Java | GPL-3.0 | [v2.13.4](https://github.com/mastodon/mastodon-android/releases/tag/v2.13.4) | 2051 | X (Twitter) (partial) |
+| [Mastodon for Android](https://github.com/mastodon/mastodon-android) | Java | GPL-3.0 | [v2.13.4](https://github.com/mastodon/mastodon-android/releases/tag/v2.13.4) | 2052 | X (Twitter) (partial) |
 | [Voyager](https://github.com/aeharding/voyager) | TypeScript | AGPL-3.0 | [2.49.1](https://github.com/aeharding/voyager/releases/tag/2.49.1) signed | 1820 | Reddit (partial) |
 | [Amethyst](https://github.com/vitorpamplona/amethyst) | Kotlin | MIT | [v1.18.0](https://github.com/vitorpamplona/amethyst/releases/tag/v1.18.0) | 1611 | X (Twitter) (partial) |
 | [Phanpy](https://github.com/cheeaun/phanpy) | JavaScript | MIT | [2026.10.09.febb38d](https://github.com/cheeaun/phanpy/releases/tag/2026.10.09.febb38d) signed | 1501 | X (Twitter) (partial) |

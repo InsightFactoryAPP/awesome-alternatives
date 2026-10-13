@@ -4,7 +4,7 @@ Collect and search traces of requests as they cross services, and CPU and memory
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [SigNoz](https://github.com/SigNoz/signoz) | TypeScript | Other | [v0.145.0](https://github.com/SigNoz/signoz/releases/tag/v0.145.0) signed | 32342 | Datadog (full), New Relic (full), Honeycomb (full) |
+| [SigNoz](https://github.com/SigNoz/signoz) | TypeScript | Other | [v0.145.0](https://github.com/SigNoz/signoz/releases/tag/v0.145.0) signed | 32343 | Datadog (full), New Relic (full), Honeycomb (full) |
 | [Apache SkyWalking](https://github.com/apache/skywalking) | Java | Apache-2.0 | [v11.0.0](https://github.com/apache/skywalking/releases/tag/v11.0.0) | 24967 | New Relic (partial) |
 | [Jaeger](https://github.com/jaegertracing/jaeger) | Go | Apache-2.0 | [v2.22.0](https://github.com/jaegertracing/jaeger/releases/tag/v2.22.0) signed | 23288 | Zipkin (full), Honeycomb (partial) |
 | [Zipkin](https://github.com/openzipkin/zipkin) | Java | Apache-2.0 | [3.6.1](https://github.com/openzipkin/zipkin/releases/tag/3.6.1) | 17468 | Datadog (partial), Honeycomb (partial) |

@@ -434,22 +434,6 @@ in Rust"), is on [awesome-alternatives.com](https://awesome-alternatives.com).
 | [Network analysis](catalog/network-analysis.md) | 4 | Capture and inspect network traffic and scan hosts. |
 | [Penetration testing](catalog/penetration-testing.md) | 3 | Exploit frameworks and password recovery tools used in security assessments. |
 | [Cryptography libraries](catalog/cryptography-library.md) | 2 | Libraries that implement TLS and cryptographic primitives for other software. |
-| [Sandbox and automation games](catalog/sandbox-game.md) | 9 | Open source voxel sandboxes, open world survival games and factory builders that stand in for Minecraft, Cube World, Factorio and similar closed games. |
-| [Minecraft Bedrock servers](catalog/minecraft-bedrock-server.md) | 4 | Server software for Minecraft: Bedrock Edition, written from scratch or built on top of the official server binary. |
-| [Minecraft launchers](catalog/minecraft-launcher.md) | 5 | Launchers that install Minecraft versions, mod loaders and modpacks and manage separate instances. |
-| [Real-time strategy games](catalog/real-time-strategy-game.md) | 6 | Open source real-time strategy games and engines that replace closed ones, with base building, resource gathering and armies commanded live. |
-| [Turn-based strategy games](catalog/turn-based-strategy-game.md) | 9 | Open source turn-based strategy, 4X and tactics games that replace closed ones, where players take their moves in turn. |
-| [Simulation and management games](catalog/simulation-management-game.md) | 11 | Run transport networks, cities, parks and hospitals, or fly and drive vehicle simulators, with open source engines and re-implementations of closed classics. |
-| [Racing games](catalog/racing-game.md) | 6 | Race cars and karts, and drive in vehicle physics sandboxes, with open source racing games and engines that replace closed titles. |
-| [First-person shooter games](catalog/first-person-shooter-game.md) | 17 | Open source first person shooters, arena games and engine ports that play classic shooters such as Quake, Doom and Wolfenstein. |
-| [Platformer games](catalog/platformer-game.md) | 4 | Open source 2D platform and jump'n'run games, and reimplementations of classic platformers. |
-| [Roguelike games](catalog/roguelike-game.md) | 6 | Turn-based dungeon crawlers and survival games with procedural levels, permadeath and tile or text interfaces. |
-| [Role-playing games](catalog/role-playing-game.md) | 13 | Open source role-playing games and engine re-implementations that play classic RPGs from your own copy of the original data. |
-| [Space games](catalog/space-game.md) | 4 | Single-player space flight, trading and combat games, from Elite-style simulators to 2D trading and mission games. |
-| [Engine recreations and ports](catalog/game-engine-recreation.md) | 6 | Open source engines and ports that run classic games from the player's own copy of the original game data. |
-| [Puzzle and arcade games](catalog/puzzle-game.md) | 5 | Open source puzzle, arcade and artillery games, mostly clones of or inspired by well-known closed titles. |
-| [Board and card games](catalog/board-game.md) | 7 | Chess servers, card game clients, poker, solitaire and tabletop platforms for playing against people or the computer. |
-| [Chess engines and databases](catalog/chess-engine.md) | 3 | Engines that evaluate positions and graphical tools that manage chess games, databases and analysis. |
 
 <!-- catalog:end -->
 

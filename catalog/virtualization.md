@@ -12,7 +12,7 @@ Run virtual machines and system containers across a cluster of hosts.
 | [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) | Rust | none | [v53.0](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v53.0) | 6324 | Firecracker (partial) |
 | [Harvester](https://github.com/harvester/harvester) | Go | Apache-2.0 | [v1.9.0](https://github.com/harvester/harvester/releases/tag/v1.9.0) | 5206 | VMware vSphere (full) |
 | [LXD](https://github.com/canonical/lxd) | Go | AGPL-3.0 | [lxd-6.9](https://github.com/canonical/lxd/releases/tag/lxd-6.9) signed | 4834 | VMware vSphere (partial) |
-| [Apache CloudStack](https://github.com/apache/cloudstack) | Java | Apache-2.0 | [4.23.0.0](https://github.com/apache/cloudstack/releases/tag/4.23.0.0) signed | 3097 | VMware vSphere (partial) |
+| [Apache CloudStack](https://github.com/apache/cloudstack) | Java | Apache-2.0 | [4.23.0.0](https://github.com/apache/cloudstack/releases/tag/4.23.0.0) signed | 3098 | VMware vSphere (partial) |
 | [OpenNebula](https://github.com/OpenNebula/one) | JavaScript | Apache-2.0 | [release-7.4.1](https://github.com/OpenNebula/one/releases/tag/release-7.4.1) signed | 1756 | VMware vSphere (full) |
 | [VirtualBox](https://github.com/VirtualBox/virtualbox) | C | GPL-3.0 | [v7.2.20](https://github.com/VirtualBox/virtualbox/releases/tag/v7.2.20) | 1443 | none |
 | [Xen Orchestra](https://github.com/vatesfr/xen-orchestra) | JavaScript | Other | [xo-lite-v0.26.0](https://github.com/vatesfr/xen-orchestra/releases/tag/xo-lite-v0.26.0) signed | 992 | VMware vSphere (partial) |

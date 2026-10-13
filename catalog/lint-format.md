@@ -6,7 +6,7 @@ Linters, static checkers and formatters for Go, the JVM, PHP, Ruby, Swift, Lua, 
 |---|---|---|---|---:|---|
 | [ShellCheck](https://github.com/koalaman/shellcheck) | Haskell | GPL-3.0 | [v0.11.0](https://github.com/koalaman/shellcheck/releases/tag/v0.11.0) | 40165 | none |
 | [SwiftLint](https://github.com/realm/SwiftLint) | Swift | MIT | [0.65.1](https://github.com/realm/SwiftLint/releases/tag/0.65.1) | 19756 | none |
-| [golangci-lint](https://github.com/golangci/golangci-lint) | Go | GPL-3.0 | [v2.14.0](https://github.com/golangci/golangci-lint/releases/tag/v2.14.0) signed | 19435 | Staticcheck (full), revive (full) |
+| [golangci-lint](https://github.com/golangci/golangci-lint) | Go | GPL-3.0 | [v2.14.0](https://github.com/golangci/golangci-lint/releases/tag/v2.14.0) signed | 19434 | Staticcheck (full), revive (full) |
 | [PHPStan](https://github.com/phpstan/phpstan) | PHP | MIT | [2.3.1](https://github.com/phpstan/phpstan/releases/tag/2.3.1) | 14129 | Psalm (full) |
 | [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) | PHP | MIT | [v3.95.27](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.27) signed | 13566 | PHP_CodeSniffer (partial) |
 | [RuboCop](https://github.com/rubocop/rubocop) | Ruby | MIT | [v1.92.0](https://github.com/rubocop/rubocop/releases/tag/v1.92.0) | 12913 | none |

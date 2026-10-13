@@ -4,7 +4,7 @@ Self-hosted repositories, code review and issues.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Gitea](https://github.com/go-gitea/gitea) | Go | MIT | [v28.1.0](https://github.com/go-gitea/gitea/releases/tag/v28.1.0) | 58459 | GitLab (full), GitHub (full), Jenkins (partial), Bitbucket (full), Gogs (full) |
+| [Gitea](https://github.com/go-gitea/gitea) | Go | MIT | [v28.1.0](https://github.com/go-gitea/gitea/releases/tag/v28.1.0) | 58460 | GitLab (full), GitHub (full), Jenkins (partial), Bitbucket (full), Gogs (full) |
 | [Gogs](https://github.com/gogs/gogs) | Go | MIT | [v0.14.3](https://github.com/gogs/gogs/releases/tag/v0.14.3) signed | 47864 | GitHub (partial), Bitbucket (partial) |
 | [Harness Open Source](https://github.com/harness/harness) | Go | Apache-2.0 | [v2.28.2](https://github.com/harness/harness/releases/tag/v2.28.2) | 38528 | GitHub (full), GitLab (full) |
 | [GitLab](https://github.com/gitlabhq/gitlabhq) | Ruby | Other | [v19.4.2](https://github.com/gitlabhq/gitlabhq/releases/tag/v19.4.2) | 24551 | GitHub (full), Jenkins (partial), Bitbucket (full) |

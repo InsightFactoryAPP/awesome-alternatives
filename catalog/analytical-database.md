@@ -4,8 +4,8 @@ Columnar SQL engines for analytics over large datasets.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | C++ | Apache-2.0 | [v26.9.17.8-stable](https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.17.8-stable) | 50382 | Snowflake (full), BigQuery (full), Amazon Redshift (full) |
-| [DuckDB](https://github.com/duckdb/duckdb) | C++ | MIT | [v1.5.6](https://github.com/duckdb/duckdb/releases/tag/v1.5.6) signed | 42147 | Snowflake (partial), BigQuery (partial), Amazon Athena (partial) |
+| [ClickHouse](https://github.com/ClickHouse/ClickHouse) | C++ | Apache-2.0 | [v26.9.17.8-stable](https://github.com/ClickHouse/ClickHouse/releases/tag/v26.9.17.8-stable) | 50384 | Snowflake (full), BigQuery (full), Amazon Redshift (full) |
+| [DuckDB](https://github.com/duckdb/duckdb) | C++ | MIT | [v1.5.6](https://github.com/duckdb/duckdb/releases/tag/v1.5.6) signed | 42149 | Snowflake (partial), BigQuery (partial), Amazon Athena (partial) |
 | [Presto](https://github.com/prestodb/presto) | Java | Apache-2.0 | [0.299](https://github.com/prestodb/presto/releases/tag/0.299) | 16757 | Amazon Athena (full) |
 | [Apache Doris](https://github.com/apache/doris) | Java | Apache-2.0 | [4.1.4.1](https://github.com/apache/doris/releases/tag/4.1.4.1) | 16078 | Snowflake (full) |
 | [Apache Druid](https://github.com/apache/druid) | Java | Apache-2.0 | [druid-38.0.0](https://github.com/apache/druid/releases/tag/druid-38.0.0) | 14064 | Apache Pinot (full), ClickHouse (partial) |

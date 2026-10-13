@@ -15,7 +15,7 @@ Run an online store, from catalogue to checkout, or ring up in-store sales and p
 | [PrestaShop](https://github.com/PrestaShop/PrestaShop) | PHP | Other | [9.2.0](https://github.com/PrestaShop/PrestaShop/releases/tag/9.2.0) signed | 9226 | Shopify (full) |
 | [Aimeos](https://github.com/aimeos/aimeos-laravel) | PHP | MIT | [2026.10.1](https://github.com/aimeos/aimeos-laravel/releases/tag/2026.10.1) | 8702 | Shopify (partial) |
 | [Sylius](https://github.com/Sylius/Sylius) | PHP | MIT | [v2.3.0](https://github.com/Sylius/Sylius/releases/tag/v2.3.0) signed | 8557 | Shopify (partial) |
-| [Vendure](https://github.com/vendurehq/vendure) | TypeScript | Other | [v3.8.0](https://github.com/vendurehq/vendure/releases/tag/v3.8.0) | 8511 | Shopify (partial) |
+| [Vendure](https://github.com/vendurehq/vendure) | TypeScript | Other | [v3.8.0](https://github.com/vendurehq/vendure/releases/tag/v3.8.0) | 8512 | Shopify (partial) |
 | [OpenCart](https://github.com/opencart/opencart) | PHP | Other | [4.1.0.4](https://github.com/opencart/opencart/releases/tag/4.1.0.4) signed | 8218 | Shopify (partial) |
 | [Django Oscar](https://github.com/django-oscar/django-oscar) | Python | BSD-3-Clause | [4.2.1](https://github.com/django-oscar/django-oscar/releases/tag/4.2.1) signed | 6624 | Shopify (partial) |
 | [Solidus](https://github.com/solidusio/solidus) | Ruby | BSD-3-Clause | [v4.8.0](https://github.com/solidusio/solidus/releases/tag/v4.8.0) signed | 5340 | Shopify (partial) |

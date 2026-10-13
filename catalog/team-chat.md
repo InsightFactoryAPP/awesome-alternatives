@@ -5,8 +5,8 @@ Self-hosted messaging for teams.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | TypeScript | Other | [8.9.0](https://github.com/RocketChat/Rocket.Chat/releases/tag/8.9.0) | 46248 | Mattermost (full), Slack (full), Microsoft Teams (partial) |
-| [Mattermost](https://github.com/mattermost/mattermost) | TypeScript | Other | [v11.11.1](https://github.com/mattermost/mattermost/releases/tag/v11.11.1) signed | 39322 | Slack (full), Microsoft Teams (partial) |
-| [Zulip](https://github.com/zulip/zulip) | Python | Apache-2.0 | [12.3](https://github.com/zulip/zulip/releases/tag/12.3) | 26034 | Mattermost (full), Slack (full) |
+| [Mattermost](https://github.com/mattermost/mattermost) | TypeScript | Other | [v11.11.1](https://github.com/mattermost/mattermost/releases/tag/v11.11.1) signed | 39323 | Slack (full), Microsoft Teams (partial) |
+| [Zulip](https://github.com/zulip/zulip) | Python | Apache-2.0 | [12.3](https://github.com/zulip/zulip/releases/tag/12.3) | 26035 | Mattermost (full), Slack (full) |
 | [Tinode](https://github.com/tinode/chat) | Go | GPL-3.0 | [v0.25.3](https://github.com/tinode/chat/releases/tag/v0.25.3) | 13527 | WhatsApp (partial) |
 | [Fluxer](https://github.com/fluxerapp/fluxer) | TypeScript | AGPL-3.0 | [fluxer-media-proxy@2026.1013.32826](https://github.com/fluxerapp/fluxer/releases/tag/fluxer-media-proxy%402026.1013.32826) signed | 10565 | Discord (full) |
 | [Mumble](https://github.com/mumble-voip/mumble) | C++ | Other | [v1.5.939](https://github.com/mumble-voip/mumble/releases/tag/v1.5.939) | 8335 | Discord (partial) |

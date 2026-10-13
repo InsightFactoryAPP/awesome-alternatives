@@ -5,7 +5,7 @@ Build, send and share HTTP, GraphQL and gRPC requests from a desktop or browser 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | TypeScript | MIT | [2026.9.0](https://github.com/hoppscotch/hoppscotch/releases/tag/2026.9.0) signed | 80602 | Insomnia (full), Postman (full) |
-| [Bruno](https://github.com/usebruno/bruno) | JavaScript | MIT | [v4.2.1](https://github.com/usebruno/bruno/releases/tag/v4.2.1) | 47477 | Insomnia (full), Postman (full) |
+| [Bruno](https://github.com/usebruno/bruno) | JavaScript | MIT | [v4.2.1](https://github.com/usebruno/bruno/releases/tag/v4.2.1) | 47479 | Insomnia (full), Postman (full) |
 | [Insomnia](https://github.com/Kong/insomnia) | TypeScript | Apache-2.0 | [core@13.3.1](https://github.com/Kong/insomnia/releases/tag/core%4013.3.1) | 40046 | Postman (full) |
 | [Yaak](https://github.com/mountain-loop/yaak) | TypeScript | MIT | [v2026.9.0](https://github.com/mountain-loop/yaak/releases/tag/v2026.9.0) signed | 19307 | Postman (full), Insomnia (full) |
 | [gRPCurl](https://github.com/fullstorydev/grpcurl) | Go | MIT | [v1.9.4](https://github.com/fullstorydev/grpcurl/releases/tag/v1.9.4) | 12852 | Postman (partial) |

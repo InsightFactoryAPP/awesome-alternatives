@@ -5,8 +5,8 @@ Read EPUB, PDF and comic files on a desktop, phone or e-ink device.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [KOReader](https://github.com/koreader/koreader) | Lua | AGPL-3.0 | [v2026.07.1](https://github.com/koreader/koreader/releases/tag/v2026.07.1) | 30284 | Amazon Kindle (partial) |
-| [Koodo Reader](https://github.com/koodo-reader/koodo-reader) | JavaScript | AGPL-3.0 | [v2.4.6](https://github.com/koodo-reader/koodo-reader/releases/tag/v2.4.6) | 28485 | Apple Books (partial), Adobe Digital Editions (partial) |
-| [Readest](https://github.com/readest/readest) | TypeScript | AGPL-3.0 | [v0.12.12](https://github.com/readest/readest/releases/tag/v0.12.12) signed | 25136 | Amazon Kindle (partial), Adobe Digital Editions (partial), Apple Books (partial) |
+| [Koodo Reader](https://github.com/koodo-reader/koodo-reader) | JavaScript | AGPL-3.0 | [v2.4.6](https://github.com/koodo-reader/koodo-reader/releases/tag/v2.4.6) | 28486 | Apple Books (partial), Adobe Digital Editions (partial) |
+| [Readest](https://github.com/readest/readest) | TypeScript | AGPL-3.0 | [v0.12.12](https://github.com/readest/readest/releases/tag/v0.12.12) signed | 25137 | Amazon Kindle (partial), Adobe Digital Editions (partial), Apple Books (partial) |
 | [Foliate](https://github.com/johnfactotum/foliate) | JavaScript | GPL-3.0 | [3.3.0](https://github.com/johnfactotum/foliate/releases/tag/3.3.0) | 8803 | Apple Books (partial) |
 | [Librum](https://github.com/Librum-Reader/Librum) | C++ | GPL-3.0 | [v.0.12.2](https://github.com/Librum-Reader/Librum/releases/tag/v.0.12.2) signed | 5318 | Amazon Kindle (partial), Apple Books (partial) |
 | [Librera Reader](https://github.com/foobnix/LibreraReader) | C | Other | [9.6.39](https://github.com/foobnix/LibreraReader/releases/tag/9.6.39) | 4901 | Amazon Kindle (partial) |

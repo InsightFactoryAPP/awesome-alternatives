@@ -14,8 +14,8 @@ Record, edit and mix audio, and compose with DAWs, trackers, sequencers and soft
 | [Furnace](https://github.com/tildearrow/furnace) | C++ | Other | [v0.6.8.3](https://github.com/tildearrow/furnace/releases/tag/v0.6.8.3) | 3867 | DefleMask (full) |
 | [Dexed](https://github.com/asb2m10/dexed) | C++ | GPL-3.0 | [v1.0.1](https://github.com/asb2m10/dexed/releases/tag/v1.0.1) signed | 3566 | FM8 (partial) |
 | [Helio](https://github.com/helio-fm/helio-sequencer) | C++ | GPL-3.0 | [3.18](https://github.com/helio-fm/helio-sequencer/releases/tag/3.18) | 3564 | FL Studio (partial) |
-| [Cardinal](https://github.com/DISTRHO/Cardinal) | C++ | GPL-3.0 | [26.02](https://github.com/DISTRHO/Cardinal/releases/tag/26.02) signed | 3219 | none |
-| [openDAW](https://github.com/andremichelle/openDAW) | TypeScript | AGPL-3.0 | [@opendaw/studio-adapters@0.3.5](https://github.com/andremichelle/openDAW/releases/tag/%40opendaw/studio-adapters%400.3.5) | 2296 | Ableton Live (partial), FL Studio (partial) |
+| [Cardinal](https://github.com/DISTRHO/Cardinal) | C++ | GPL-3.0 | [26.02](https://github.com/DISTRHO/Cardinal/releases/tag/26.02) signed | 3220 | none |
+| [openDAW](https://github.com/andremichelle/openDAW) | TypeScript | AGPL-3.0 | [@opendaw/studio-adapters@0.3.5](https://github.com/andremichelle/openDAW/releases/tag/%40opendaw/studio-adapters%400.3.5) | 2297 | Ableton Live (partial), FL Studio (partial) |
 | [Carla](https://github.com/falkTX/Carla) | C++ | none | [v2.5.10](https://github.com/falkTX/Carla/releases/tag/v2.5.10) signed | 2181 | none |
 | [MilkyTracker](https://github.com/milkytracker/MilkyTracker) | C++ | Other | [v1.05.01](https://github.com/milkytracker/MilkyTracker/releases/tag/v1.05.01) | 2114 | Renoise (partial) |
 | [ossia score](https://github.com/ossia/score) | C++ | Other | [v3.8.2](https://github.com/ossia/score/releases/tag/v3.8.2) | 2074 | QLab (partial) |

@@ -5,10 +5,10 @@ General-purpose SQL databases.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [TiDB](https://github.com/pingcap/tidb) | Go | Apache-2.0 | [v7.5.8](https://github.com/pingcap/tidb/releases/tag/v7.5.8) signed | 40639 | MySQL (full), Google Cloud Spanner (full) |
-| [Turso Database](https://github.com/tursodatabase/turso) | Rust | MIT | [v0.8.3](https://github.com/tursodatabase/turso/releases/tag/v0.8.3) | 24746 | SQLite (partial) |
-| [Dolt](https://github.com/dolthub/dolt) | Go | Apache-2.0 | [v2.4.2](https://github.com/dolthub/dolt/releases/tag/v2.4.2) | 24629 | MySQL (full) |
+| [Turso Database](https://github.com/tursodatabase/turso) | Rust | MIT | [v0.8.3](https://github.com/tursodatabase/turso/releases/tag/v0.8.3) | 24748 | SQLite (partial) |
+| [Dolt](https://github.com/dolthub/dolt) | Go | Apache-2.0 | [v2.4.2](https://github.com/dolthub/dolt/releases/tag/v2.4.2) | 24631 | MySQL (full) |
 | [Neon](https://github.com/neondatabase/neon) | Rust | Apache-2.0 | [release-proxy-8853](https://github.com/neondatabase/neon/releases/tag/release-proxy-8853) | 23196 | Amazon RDS (partial) |
-| [PostgreSQL](https://github.com/postgres/postgres) | C | Other | [REL_18_6](https://github.com/postgres/postgres/releases/tag/REL_18_6) | 22379 | MySQL (full), Oracle Database (full), Microsoft SQL Server (partial) |
+| [PostgreSQL](https://github.com/postgres/postgres) | C | Other | [REL_18_6](https://github.com/postgres/postgres/releases/tag/REL_18_6) | 22380 | MySQL (full), Oracle Database (full), Microsoft SQL Server (partial) |
 | [Vitess](https://github.com/vitessio/vitess) | Go | Apache-2.0 | [v24.0.4](https://github.com/vitessio/vitess/releases/tag/v24.0.4) signed | 21383 | PlanetScale (partial), Google Cloud Spanner (partial) |
 | [rqlite](https://github.com/rqlite/rqlite) | Go | MIT | [v10.6.0](https://github.com/rqlite/rqlite/releases/tag/v10.6.0) signed | 17789 | SQLite (partial) |
 | [libSQL](https://github.com/tursodatabase/libsql) | C | MIT | [libsql-server-v0.24.32](https://github.com/tursodatabase/libsql/releases/tag/libsql-server-v0.24.32) signed | 17267 | SQLite (drop-in) |

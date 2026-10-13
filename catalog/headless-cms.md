@@ -4,9 +4,9 @@ Manage content in an admin UI and deliver it to any front end through an API.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Strapi](https://github.com/strapi/strapi) | TypeScript | Other | [v5.57.0](https://github.com/strapi/strapi/releases/tag/v5.57.0) | 73299 | Contentful (full) |
+| [Strapi](https://github.com/strapi/strapi) | TypeScript | Other | [v5.57.0](https://github.com/strapi/strapi/releases/tag/v5.57.0) | 73301 | Contentful (full) |
 | [Payload](https://github.com/payloadcms/payload) | TypeScript | MIT | [v3.90.2](https://github.com/payloadcms/payload/releases/tag/v3.90.2) | 45225 | Contentful (full), Strapi (full) |
-| [Directus](https://github.com/directus/directus) | TypeScript | Other | [v12.5.0](https://github.com/directus/directus/releases/tag/v12.5.0) signed | 38438 | Contentful (full) |
+| [Directus](https://github.com/directus/directus) | TypeScript | Other | [v12.5.0](https://github.com/directus/directus/releases/tag/v12.5.0) signed | 38441 | Contentful (full) |
 | [Wagtail](https://github.com/wagtail/wagtail) | Python | BSD-3-Clause | [v8.0](https://github.com/wagtail/wagtail/releases/tag/v8.0) | 20547 | Contentful (partial) |
 | [Decap CMS](https://github.com/decaporg/decap-cms) | JavaScript | MIT | [decap-cms@3.16.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.16.3) | 19427 | Contentful (partial) |
 | [TinaCMS](https://github.com/tinacms/tinacms) | TypeScript | Apache-2.0 | [tinacms-gitprovider-github@5.0.0](https://github.com/tinacms/tinacms/releases/tag/tinacms-gitprovider-github%405.0.0) signed | 13826 | Contentful (partial) |
