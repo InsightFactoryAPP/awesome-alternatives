@@ -4,6 +4,12 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.137.2] - 2026-10-13
+
+### Bug Fixes
+
+- chore(catalog): remove the games lane (#435)
+
 ## [0.137.1] - 2026-10-13
 
 ### Bug Fixes
